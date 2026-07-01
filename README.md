@@ -1,2 +1,4 @@
 # MedYT
 Recipe for downloading the MedYT corpus
+
+yt-dlp --batch-file urls.txt -x --audio-format flac -o "%(channel)s/%(id)s/%(id)s.%(ext)s"
