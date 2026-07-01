@@ -1,6 +1,6 @@
 # MedYT
 
-**MedYT** is a large-scale medical speech corpus of 8,249 hours sourced from 74 YouTube channels across 9 medical disciplines, designed for self-supervised pretraining of speech foundation models. It is accompanied by an 11-hour manually curated evaluation benchmark (MedYT-Test) and a 603-hour aligned training corpus (MedYT-Train).
+**MedYT** is a large-scale medical speech corpus of 8,250 hours sourced from 68 YouTube channels across 9 medical disciplines, designed for self-supervised pretraining of speech foundation models. It is accompanied by an 11-hour manually curated evaluation benchmark (MedYT-Test) and a 603-hour aligned training corpus (MedYT-Train).
 
 This repository provides the recipes to reconstruct both corpora from publicly available YouTube content.
 
