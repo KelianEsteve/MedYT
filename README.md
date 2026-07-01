@@ -4,8 +4,7 @@
 
 This repository provides the recipes to reconstruct both corpora from publicly available YouTube content.
 
-> **Paper:** *Benchmarking Self-Supervised Speech Models for Medical ASR: A Diverse Spoken Sources Corpus and an Empirical Study of Pretraining Strategies* — SLT 2026  
-> **Pretrained models:** [!PLACEHOLDER — HuggingFace / Zenodo link]
+> **Paper:** *Benchmarking Self-Supervised Speech Models for Medical ASR: A Diverse Spoken Sources Corpus and an Empirical Study of Pretraining Strategies* 
 
 ---
 
@@ -128,18 +127,4 @@ MedYT-Test is a manually curated 11-hour evaluation benchmark structured along t
 
 The audio and transcripts are derived from publicly available YouTube content. Each channel's content is subject to its original creator's license. The recipes, code, and metadata in this repository are released under [!PLACEHOLDER — e.g. MIT / CC-BY 4.0].
 
----
 
-## Citation
-
-If you use MedYT in your research, please cite:
-
-```bibtex
-@inproceedings{!PLACEHOLDER,
-  title     = {Benchmarking Self-Supervised Speech Models for Medical {ASR}:
-               A Diverse Spoken Sources Corpus and an Empirical Study of Pretraining Strategies},
-  author    = {!PLACEHOLDER},
-  booktitle = {Proceedings of the IEEE Spoken Language Technology Workshop (SLT)},
-  year      = {2026}
-}
-```
