@@ -1,1 +1,2 @@
 pretrained_models/BEST-RQ-LL/model.ckpt filter=lfs diff=lfs merge=lfs -text
+pretrained_models/BEST-RQ-MedYT/model.ckpt filter=lfs diff=lfs merge=lfs -text
