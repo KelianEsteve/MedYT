@@ -115,16 +115,12 @@ Set the `!PLACEHOLDER` paths at the top of each script before running. Each scri
 
 ---
 
-## MedYT-Test
 
-MedYT-Test is a manually curated 11-hour evaluation benchmark structured along two axes: communicative genre and clinical domain. It is distributed separately as pre-segmented audio with reference transcriptions:
-
-> [!PLACEHOLDER — download link]
 
 ---
 
 ## License
 
-The audio and transcripts are derived from publicly available YouTube content. Each channel's content is subject to its original creator's license. The recipes, code, and metadata in this repository are released under [!PLACEHOLDER — e.g. MIT / CC-BY 4.0].
+The audio and transcripts are derived from publicly available YouTube content. Each channel's content is subject to its original creator's license. The recipes, code in this repository are released under [MIT / CC-BY 4.0].
 
 
