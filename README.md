@@ -34,8 +34,8 @@ medYT/
 | Corpus | Hours | Videos | Channels | Use |
 |---|---|---|---|---|
 | MedYT-Unsupervised | 8,249 | 35,290 | 68 | Self-supervised pretraining |
-| MedYT-Train | 603 | 3,972 | 30 | Supervised ASR fine-tuning |
-| MedYT-Test | 11 | — | — | Evaluation benchmark |
+| MedYT-Train | 598 | 3,972 | 30 | Supervised ASR fine-tuning |
+| MedYT-Test | 3 | — | — | Evaluation benchmark |
 
 ---
 
