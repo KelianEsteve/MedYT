@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-29T10:36:22+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/Episode_31_--_Malariotherapy.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Episode_31_--_Malariotherapy.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aaf5fee5-2a73-488f-b3f7-1dee0838d87e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">124</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="20400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="20900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="23200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="34300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="48300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="48700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="50900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="58900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="59300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="71300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="73700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="89600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="90100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="117700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="118200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="131800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="132200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="159300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="159800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="186200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="186600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="203700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="204200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="229300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="229800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="236100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="236500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="244200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="245100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="257200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="257700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="283600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="284100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="294300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="294700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="313700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="314100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="343000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="343400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="369000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="369300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="394800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="395100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="409500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="410200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="423700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="423900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="443200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="443700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="465600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="465870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="485000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="485600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="502800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="503100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="526200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="526300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="540900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="541400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="564300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="564700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="573300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="573700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="598390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="598520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="605000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="605500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="627160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="627370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="649700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="650100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="670000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="670290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="695070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="695370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="706300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="706700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="735920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="736090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="758000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="758300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="776600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="777000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="801900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="802400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="812400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="812800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="822600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="823000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="836100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="836600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="860760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="860990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="873900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="874600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="900050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="900310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="925110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="925370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="949100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="949600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="963700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="964100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="986220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="986390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="1016100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="1016400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="1038100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="1038500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1044200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1044600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1065200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1065500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1090500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1090900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1111300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1111500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1137400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1137600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1146100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1146600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1175120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1175270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1181400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1181900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1205300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1205600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1235010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1235210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1255000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1255400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1272400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1272800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1296310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1296480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1303800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1304200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1330900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1331200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1344200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1344700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1366600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1367000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1390400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1390800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1400400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1400900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1408200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="1408800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="1430400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="1430900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="1464300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="1464800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="1482220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="1482370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="1505500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="1505900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="1519000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="1519500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="1539380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="1539660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="1562200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="1562600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="1582200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="1582400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1609030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1609260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1638500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1638800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1662500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1662900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1688000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1688300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1729300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1729700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1755300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1755700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1768000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1768500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1777700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1778100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1807600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1807800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1823110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="1823310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="1852000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="1852600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="1866400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="1867000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="1887300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="1887800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="1900200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="1900700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="1910400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="1911000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="1914010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="1944200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="1946400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="1946900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1970400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1970540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1990600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1991000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1994600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1995100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="2001100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="2001500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="2015300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="2015700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="2042900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="2043200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="2072500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="2072700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="2099500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="2099600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="2104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="2104500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="2113900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="2114300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="2135600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="2136200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="2150600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="2150800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="2176800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="2176900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="2199200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="2199600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="2215800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="2216300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="2237400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="2240400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="2268900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="2269200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="2279300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="2279800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="2300700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="2303000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="2320200"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>hey guys we’ve got a lot of new listeners so before this episode starts i have a little favor to ask if you like bedside rounds please rate and review us on itunes stitcher or whichever podcasting service that you use or even better tell a friend in real life it’s pretty much the best way there is to get out word about the podcast</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>okay enough of that and on to the show</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>this is adam rodman and you’re listening to bedside rounds a tiny podcast about fascinating stories in clinical medicine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>this episode is called malaria therapy and it’s about how julius wagner-jauregg an austrian psychiatrist won the nineteen twenty-seven nobel prize in physiology or medicine for infecting comatose syphilis patients with malaria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>but it’s about so much more than that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>i’m going to talk about the murky beginnings of syphilis its sordid sexual associations the birth of modern psychiatry</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>nazi medical experiments and basically how a discovery that lauded a nobel prize gets more or less forgotten just a few decades later that’s a lot so let’s get started</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>julius wagner-jauregg is one of the most influential and prominent psychiatrists of the early twentieth century but a cursory and admittedly very unscientific poll on my twitter suggests that most of you have never heard of him so we should start with a refresher about what he did to win the nobel prize</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>it’s nineteen seventeen and wagner-jauregg is already a prominent psychiatrist famous for his research into the biological causes of psychiatric diseases he’s also the chief and director of the first asylum at the university of vienna world war one is raging on and every medical facility is doing what they can to support the war effort a young soldier who’s stricken with malaria returns from the balkans and he’s accidentally admitted to wagner-jauregg’s asylum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>so i’ll quote from the doctor himself this is from a document published in english two decades later on what happened next and i’m quoting here should he be given quinine my assistant asked i immediately said no</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>this i regarded as a sign of destiny because soldiers with malaria were usually not admitted to my wards which accepted only cases suffering from a psychosis or patients with injuries to the central nervous system i obtained a paroxysm of a small sample of the soldier’s blood and i inoculated three general paralytic patients by rubbing a few drops into several superficial scarifications on the skin then the malaria of the soldier was stopped with quinine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>he then inoculated this malaria-filled sample into nine patients suffering from general paralysis of the insane which is the final paralytic phase of syphilis that was invariably fatal and yes it’s actually still called GPI or general paralysis of the insane today but if you look it up if you were to see it which would be very unlikely it would be called general paresis and that actually is an ICD-10 code so the results were dramatic</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>one of the patients died and two didn’t recover they remained paralyzed but six showed considerable improvement and three of those fully recovered so a paralyzed actor was soon able to go back to the theater as did a clerk and a military officer who were back at work in weeks</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>over the next decade the cure for GPI had been subjected to hundreds of experiments confirming wagner-jauregg’s results and anopheles mosquitoes were being cultivated across the world to serve as a new reservoir for this so-called malariotherapy by nineteen twenty-seven he would win the nobel prize in physiology or medicine the first and only psychiatrist to win this award and now you’ve never heard of him why</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>to answer that we’re going to have to take some advice from one of my favorite authors and scientists carl sagan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>if you wish to make an apple pie from scratch you must first invent the universe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>i’m not that ambitious but to really understand the impact of wagner-jauregg’s discovery we have to start quite a bit earlier than the late nineteenth century</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>so let’s start by talking about syphilis syphilis was a common disease in the pre-antibiotic era and it was widely known that any physician worth his salt would be familiar with its many permutations william osler himself wrote and i am quoting i often tell my students that it is the only disease which they require to know thoroughly know syphilis in all its manifestations and relations and all other things clinical will be added unto you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>so today it’s far rarer though it’s on the rise in the united states it’s caused by a corkscrew-shaped bacterium called treponema pallidum and its only known reservoir is people</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>it is first and foremost a sexually transmitted disease the bacteria enter easily through mucosal surfaces meaning that it can be transmitted not only through the genitals but also through oral sex or even just kissing near a lesion less commonly it’s transmitted between mother and child both via blood and by contact during birth</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>so if you were unlucky enough to get syphilis initially you’d have a bump at the site the bacteria entered which is often the genitals and this would soon transform into a painless clean-based ulcer this is called a chancre and it is the classic finding of what we now call primary syphilis this chancre would resolve and then after a few months you’d develop a rash classically on the palms and the soles also flu-like symptoms and hair loss so this is secondary syphilis as the disease replicates throughout your body</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>after about a year or so you’d develop growths called gummas all over your body on your skin and your bones and your blood vessels especially in the aorta and your other internal organs your spinal column might be affected and you’d find it hard to walk you’d become more and more confused and at the very end you would slip into a deep coma the dreaded general paralysis of the insane from which you’d never wake</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>these dreaded effects of tertiary syphilis were not uncommon the twentieth century saw two longitudinal studies of syphilis patients and yes one of them was the infamous tuskegee syphilis study an unfortunate story for another time but essentially they confirmed that up to fifteen percent of patients who were infected with syphilis died of the disease and about a third of patients would develop some of those feared complications</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and no wonder osler felt that syphilis was so essential to know inside and out it was considered the great imitator since the gummas of tertiary syphilis could appear like pretty much any other disease syphilis was literally always on the differential</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>with the dramatic impact that syphilis has had on our society you would think it would be a disease that had been with us for millennia but in fact we can date its appearance in the west to a single year fourteen ninety-five</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>so i don’t actually understand the politics of the situation but in fourteen ninety-four the pope invited charles eight with the king of france to lead an army of twenty-five thousand mercenaries from all over europe including spanish mercenaries who had just returned from columbus’s journey to the new world into italy to collect a debt from the prince of naples</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>following the soldiers were a lot of camp followers including sex workers the troops first stopped in rome where they apparently lived a life of debauchery for about a month before marching toward naples so naples was defended by only about a thousand mercenaries so the twenty-five thousand from france took it with very little resistance no one wants to fight against twenty-five-to-one odds</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>charles’s mercenaries did little to endear themselves to the population there are accounts of rape theft and general depravity so in response the neighboring italian princes joined together and defeated the french army and what they found in the newly liberated city and on the french soldiers’ bodies was horrifying</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>a new disease had cursed the soldiers and the people of naples genital ulcers would appear and soon after high fever rash and muscle pains within a few weeks the body would erupt with open sores and abscesses these sores would eat into the bones destroy noses and in many cases cause death</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>if this sounds more severe than the modern description of syphilis it’s because it likely was we can estimate by contemporaneous engravings and descriptions of physicians in italy that this iteration of syphilis was far more morbid than the disease we know today i’ve also posted some of these engravings to twitter if you’re curious as charles’s defeated mercenaries disbanded they took the disease back to their home countries with them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>as the ever-quotable voltaire would later write on their frivolous way through italy the french carelessly picked up genoa naples and syphilis then they were thrown out and deprived of naples and genoa but they did not lose everything syphilis went with them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>by the next year doctors across europe had described this mysterious new disease accurately describing the primary chancre followed by the secondary fevers ulcers and pustules and also noted that it was sexually transmitted in nature by the fifteen twenties doctors had also described the third stage of the disease including bony destruction and these ulcers which they were now calling gummas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>and most notably all of these doctors agreed that this was something new a disease that was not known to the ancients</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>what to call this new disease one term was the great pox to differentiate it from smallpox but syphilis was quickly tied up in the politics of sex shame and blame morbus gallicum or the french disease was the preferred name especially to the german- and english-speaking world though the french preferred to cast the blame on the people of naples the neapolitan disease not to be outdone the dutch and the ottomans called it the spanish sickness</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>the poles called it the german sickness and the japanese called it the canton rash or the chinese ulcer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>by fifteen twenty-seven jacques de bethencourt suggested that the nations should not cast blame on each other but on the true culprit sex particularly illicit sex he proposed the term morbus venereus the disease of venus known in english as venereal disease i should have an aside here about the sexual connotations of syphilis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>gonorrhea and chlamydia are likely far older though it took until the nineteenth century until physicians had accurately differentiated syphilis from these other diseases syphilis in many ways was the first true sexually transmitted disease that european doctors had identified and it was seen as a literal punishment from god for sex especially sex outside of marriage</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>the same year the disease emerged the holy roman emperor issued an edict that syphilis was a punishment from god for sins especially those of a sexual nature people with disfiguring gummas were ostracized like lepers and these disfiguring sins were visible for all to see on your neighbor on your local priest even on a pope</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>and since they had sinned doctors reasoned that only harsh treatments could cure the disease that is if they were even worthy of treatment in the first place it was a common view that patients with syphilis should simply be allowed to die this was apparently a popular enough viewpoint that the famous physician thomas sydenham wrote an opposing viewpoint that physicians should treat all without judgment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>so unsurprisingly rulers used syphilis to crack down on brothels and sexual encounters outside of marriage they also clamped down on mixed bathing which was common at the time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>this sort of steamy association has lasted until today and is repeated in our medical education find a medical student and ask him or her what the argyll robertson pupil is so what the argyll robertson pupil actually is it’s a very specific sign of neurosyphilis the patient’s pupils will contract to an object near them which we call accommodation but not to a light shown in their eyes you can also see this in diabetic eye disease but in an era with far more prevalent syphilis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>if you saw the argyll robertson pupil it was pretty much pathognomonic for neurosyphilis medical students at least most of them don’t actually know that i know because i like to ask them what they remember is a smirking older physician telling them that it’s called the whores’ pupils because they and i’m quoting accommodate but do not react</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>that’s an incredibly gross pun if you can even call it that and my skin kind of crawls just remembering when i was taught that as a young medical student i think i was a first-year medical student i know i’m not the only one who was taught that honestly useless piece of trivia just because it’s kind of creepy and associated with sex</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>so where did the name syphilis come from it certainly sounds like it’s an old name well there’s a reason for that syphilis comes from an italian poet-physician in the sixteenth century who wrote a pseudo-ancient poem about a shepherd named syphilus who led his people to blaspheme against the sun god the sun god then punished syphilus by cursing him with a new disease full of pustules which he was condemned to spread throughout his people</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>this faux-greek name slowly caught on though it wasn’t until the mid-nineteenth century that syphilis fully supplanted the french disease or french pox in the english-speaking world</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>the popularity of the new name syphilis also likely came from the context the people of europe were left wondering just where this horrifying disease had come from</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>so there have been three major theories on the origin of syphilis and there used to be quite the controversy about its mysterious origins and while a consensus has emerged there still might be a paleopathologist or two willing to throw down over the subject</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>so the first theory was what was honestly suspected by doctors who were living at the time of the great outbreak what is now called the columbian hypothesis that is syphilis is a disease of the new world and when columbus and his crew landed on the island of hispaniola they contracted the disease and brought it back with them to spain some of these men we know would later serve as charles’s mercenaries during the siege of naples the rest as they say is history</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>this account is actually backed up by one of the expedition’s physicians so he was writing in the fifteen twenties and he said that he treated columbus’s men with the same disease that he now saw spreading back in spain</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>the columbian hypothesis was more or less universally accepted by the medical community until the late nineteenth century with the advent of modern anthropology so syphilis leaves telltale markers of its destruction in the bones of the dead and anthropologists started to notice these in pre-contact europeans paleopathologists also analyzed some of the writings of the ancients and found descriptions that could be consistent with syphilis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>perhaps syphilis had always been among people in the old world and it was a mutation that caused the especially violent strain in fourteen ninety-five so this is called the pre-columbian hypothesis before i describe the final theory i should mention that syphilis is not the only disease that is caused by treponema pallidum there’s also yaws and bejel both of these cause bony changes but are far less destructive than syphilis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>so the final theory it’s called the unitarian hypothesis is that all treponemal diseases are caused by the same organism and local factors cause different symptoms this has been definitively disproven by DNA analysis which shows that all of these different treponemal diseases are evolutionarily different subspecies so honestly i don’t really have much more to say about this</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>throughout the twentieth century there has been shall we say a spirited debate between the columbians and the pre-columbians however and i don’t want to make more controversy here but the debate has largely been settled on the side of the columbians</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>i’ve linked the meta-analysis in the show notes if you’re curious but doctor rothschild developed a so-called osteotype of specific bone findings found in syphilis but not in other diseases and if you’re curious this is saber shins and gummas so these are found only in syphilis and in nothing else he then analyzed all the old world findings that had been published</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>and not a single one of these bones had the syphilis osteotype rather they had nonspecific findings that could be explained by syphilis sure but also by other bony diseases on the other hand when he looked at new world bones the syphilis osteotype was very common and in fact you could even date the disease traveling down the continents furthermore bones dating to the time of columbus landing on hispaniola also suggested that syphilis was prevalent on the island at that time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>taken together with modern DNA evidence this all strongly suggests that syphilis is a new world disease which was transplanted back to europe by columbus and his men this would also explain why the initial outbreak was so severe europeans had no natural immunity to the disease in this sense syphilis served as a counterpoint to the introduction of smallpox in the new world</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>a disease from sin but not a sexual sin the sin of imperialism and genocide</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>by the sixteenth century physicians had largely accurately described syphilis but how to treat it was an open question one of the first proposed therapies was guaiacum an herb from the new world commonly called the holy wood however the imported herb was expensive and ineffective so an old staple came to become the treatment of choice mercury</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>guaiacum was likely useless but mercury was deadly a typical treatment would put the patient in a sauna with a mercury ointment massaged into the skin several times a day the patient would breathe feebly and inhale these toxic vapors if mercury wasn’t available you could use vitriol which is the old name for sulfuric acid or arsenic so the principle here actually isn’t bad mercury and other heavy metals are toxic to bacteria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>this principle would actually lead to the first effective syphilis treatment in the twentieth century of course they’re toxic to bacteria but they’re also toxic to people patients unsurprisingly suffered the effects of heavy-metal poisoning their teeth would fall out they would get nonhealing ulcers their kidneys would fail they’d develop anemias and neuropathies all over their body</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>many people recognized that the treatment might be worse than the disease and a common saying was a night with venus then a lifetime with mercury as the twentieth century approached doctors continued to learn about syphilis it was now recognized that syphilis and gonorrhea were two different diseases neurosyphilis including GPI general paralysis of the insane was fully described and in nineteen oh five the organism itself was identified under a dark-field microscope</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>but mercury remained the mainstay of treatment until nineteen ten and in fact it was on the national formulary of australia as recently as nineteen fifty-five</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>everything changed with ehrlich and hata’s discovery of salvarsan or compound six o six the story is actually fascinating but it’s a story for another podcast very briefly ehrlich was systematically trying to make an arsenic compound that would be toxic against syphilis but not humans in any event this was also the first chemotherapeutic agent and the first truly effective medicine against syphilis it was capable of curing both the primary and secondary forms of the disease though with considerable side effects</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>alas neurosyphilis and especially general paralysis of the insane were untouched by the compound</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>so there’s your background on syphilis now we have to talk briefly about the psychiatric milieu that wagner-jauregg was trained in so for millennia the four humors had informed medical beliefs about what we would now call psychiatry that imbalances in the body’s four constituent fluids caused all sorts of pathologies so i’m actually working on a podcast on this incredibly influential idea so stay tuned</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>by the nineteenth century humoral theory was on its last legs neurology had shown that some diseases that had previously been thought to have been psychiatric in nature stroke and epilepsy most notably were in fact caused by lesions in the brain a group of psychiatrists in germany and austria therefore posited that in fact all psychiatric disease must be caused by some sort of physical pathology in the body they also felt that by treating these diseases they could empty the asylums which had been filling up in the countryside</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>and return people back to their lives so ultimately this movement failed to catch on it was an idea that was well ahead of its time they were only able to classify a small number of diseases and they could not offer any treatments however they did inspire the young wagner-jauregg who was studying medicine in the late nineteenth century</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>he initially wanted to study internal medicine but he couldn’t secure a faculty position so he chose psychiatry instead which quote neither harmed myself nor psychiatry as he would later quip he quickly became an enthusiastic supporter of these biological views of psychiatry</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>his views were crystallized by a remarkable case that he witnessed very early on in his career in eighteen eighty-seven a woman was admitted to his asylum with psychosis and she developed a nasty case of erysipelas a rapidly spreading skin infection caused by streptococcus she developed a high fever and then general skin desquamation that is the top layers of her skin actually came off she survived</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>and through the process was completely cured of her psychosis and she was actually able to be discharged home after her recovery</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>wagner-jauregg began to read extensively on the topic this observation that fever could ease madness or even cure it was actually ancient in origin hippocrates and galen had both reported that tertian fever which we know as likely malaria could cure other illnesses he was also aware of the experiments of a doctor rosenblum in russia rosenblum had purposely infected a number of comatose patients with various relapsing fevers in his sanitarium</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>his intention however was not to cure them he was using them as human petri dishes for microbiological experiments despite this and much to his surprise half of these patients actually improved</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>germ theory was new and wagner-jauregg was an eager convert he set about attempting to craft a cure for psychosis using germs remembering his first patient he initially tried to use streptococcus to cause erysipelas in comatose patients so he found a woman with metastatic breast cancer and inoculated her wound into several patients but the infection would not take</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>with public opinion turning against experimenting on humans he moved on to the new field of vaccination which had only recently spread beyond the smallpox vaccine so he first tried tuberculin which is a sterile protein from tuberculosis which caused a fever and he actually had some success he noted that the response was most dramatic in patients with the end stage of syphilis general paralysis of the insane or GPI</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>and there would have been plenty of neurosyphilis patients up to fifteen percent of patients in asylums had the disease and it was invariably fatal within just a few years</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>wagner-jauregg therefore designed a remarkable controlled trial he identified one hundred and twenty-nine patients with GPI</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>sixty-nine of them he gave tuberculin plus the standard of care which was mercury injections the other sixty received mercury injections only he then followed them up for four years at the end of four years patients treated with tuberculin plus mercury had a longer life as well as more and better-quality remissions despite this tuberculin never really caught on</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>he repeated the experiments with the new typhus and typhoid vaccines and saw actually some success and then finally it was nineteen seventeen the day a poor soldier returning from the balkans was accidentally admitted to a psych ward with malaria after this experiment he continued his research getting fresh malarial blood from a nearby military hospital initially these experiments were a disaster so he inoculated four patients with malignant tertian malaria which we now know was the more deadly plasmodium falciparum species and three of the four died</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>but eventually he cultivated benign malaria what we now know as plasmodium vivax and ovale and went on to perform chain infection for sixteen years at long last psychiatry had a silver bullet not only a biological explanation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>but an ability to actually get patients back to their lives physicians all over the world rushed to repeat wagner-jauregg’s experiments and within a few years malaria therapy had become the standard of care a protocol was slowly developed patients would be observed in the hospital and either inoculated with malarial blood or exposed to malaria-containing mosquitoes as in the united states</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>at the same time they would be given neo-salvarsan which had now replaced mercury to treat syphilis then under medical monitoring the patients would be allowed to undergo ten to twelve cycles of fevers before they were given quinine to treat the malaria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>the effects were dramatic in nineteen twenty-six a review was performed of thirty-five different studies which showed that twenty-eight percent of patients had a full remission and twenty-seven percent had a partial remission that allowed them to leave the asylum that is over half of these patients who would earlier have just died were able to go back home</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>that’s not to say there weren’t risks involved anywhere between two to fifteen percent of patients actually died from the malaria by nineteen twenty-seven wagner-jauregg was accepting the nobel prize in medicine or physiology the first and only ever awarded to a psychiatrist by this time thousands of patients around the world had been cured of a previously incurable disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>believe it or not we actually don’t quite know how malaria therapy actually worked the presumption of course was that the fever itself caused the relief and soon malaria therapy was part of a larger group of treatments called pyrotherapy which included heating blankets and other medications to raise the body temperature but none of those worked quite as well as malaria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>without modern understanding of syphilis honestly the fever itself seems unlikely treponema pallidum can survive temperatures as high as forty-one degrees centigrade for six hours which is way too far for any human to survive ultimately we’ll have to be satisfied with the idea that somehow malaria attacked not only the blood cells of the host but also the syphilis bacteria itself so that’s the story of julius wagner-jauregg</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>i think it’s telling that pretty much everyone has heard of sigmund freud but not his friend and contemporary julius wagner-jauregg undoubtedly psychoanalysis has had a massive impact on modern psychiatry but malaria therapy and more generally these biological treatments for psychiatric diseases as well as the idea of emptying the asylums by treating psychiatric disease and getting patients returned to their lives is the mainstay of psychiatry so why have we forgotten him</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>i think there are a couple of reasons the first is that medicine has moved on penicillin was invented and by nineteen forty-three it had been demonstrated to be curative in syphilis including neurosyphilis and general paralysis of the insane penicillin today remains the standard of care for the condition in this sense we don’t talk about malaria therapy for the same reason we don’t talk about neo-salvarsan anymore</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>and the second is even more understandable the nazis ethical objections to wagner-jauregg’s work had flared prior to world war two in fact he was considerably delayed in receiving his nobel because doctor gadelius a swedish psychiatrist on the awards committee refused to give a nobel to and i’m quoting a physician who injected malaria into a paralytic because he was in his eyes a criminal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>after the horrors of nazi medical experimentation revealed during the nuremberg trials injecting malarial blood into nonconsenting adults made you a persona non grata and it didn’t help that wagner-jauregg was himself a nazi he was an antisemite despite his first wife being jewish and he enthusiastically joined the nazi party very late in his life he also dabbled in eugenics reserch that he stood up for the mentally ill and he died in nineteen forty before the worst horrors of the nazis did very little to redeem him in a world recoiling in horror at what had been done during world war two i don’t think that completely explains it though the denazification of medicine is still</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>remarkably recent and we had forgotten wagner-jauregg well before this so i’m not a psychiatrist but it seems like there has been a bit of professional embarrassment about malaria therapy it was the first in a line of so-called stress therapies which involved brutal treatments for psychiatric illness including electric shock lobotomies inducing hypoglycemic seizures with insulin and using chemotherapy drugs to bring on fevers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>this has been rightly vilified so think nurse ratched in one flew over the cuckoo’s nest so much so that the relatively benign and effective electroconvulsive therapy for severe depression is still a tough sell today</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>in an era where you get essentially a pill to treat psychiatric disease wagner-jauregg is a particularly embarrassing nazi uncle</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>this strange and brief foray into using malaria as a medical treatment still has repercussions today so stocks of malaria-infected anopheles mosquitoes were kept throughout the world for a malarial source and researchers’ experiences with these helped to illuminate the life cycle of malaria and identify a new species of malaria plasmodium ovale many of the new malarial drugs some of which are still in use today were tested on patients undergoing malaria therapy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>and the impact on psychiatry was considerable a psychiatric disease for the first time was treatable using a biological agent the generation raised with the knowledge of malaria therapy would go on to develop antipsychotics and continue the mission of getting psychiatric patients back to their lives</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>malaria therapy even had a brief resurgence in the nineteen eighties and nineties first proposed as a treatment for lyme disease and then in a very ethically murky and bizarre trial by doctor heimlich who is yeah that guy who invented the heimlich maneuver the anti-choking maneuver on HIV patients in the late nineties in china but probably the most impactful legacy was that thousands of patients who would have died of GPI were cured and thousands more had their lives improved</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>before i went down the malaria therapy rabbit hole i had assumed wagner-jauregg’s experiments and nobel were an amusing sideshow to the development of modern medicine but now my thinking has evolved the man did many laudable things for medicine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>he was inspired by his care of patients at the bedside by careful observation and he tested his methods by crafting scientific trials in an era that was content to throw people with mental illness into asylums located in the countryside far from population centers he dreamed of a world where his patients could return to society and he accomplished that to a degree</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>and we always have to remember that the invention of penicillin was not a foregone conclusion germ theory opened an opportunity to finally fight infectious diseases and malaria therapy was one of the more promising inventions</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>it’s hard to admire a man who experimented on nonconsenting patients an antisemite and a nazi but it’s also hard to deny his contributions to medicine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>well that’s it for the show but wait</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>one lol really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>two how do we establish consensus of ancient medical community versus what some rando thought wow those are amazing questions and i’m going to do my best to answer both but i have to start with a brutal caveat and that’s that i don’t get ancient medicine my contact with it also comes mostly from intermediaries in particular the excellent if dense textbook ancient medicine by vivian nutton</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>i’m not sure why but the ancients don’t speak to me yet like early modern doctors so i get wagner-jauregg i get thomas sydenham when i’ve read the hippocratic corpus i don’t feel like i’m having a conversation with a physician in the past and i just don’t have enough context to really understand everything they’re writing about</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>so with that caveat let’s get to your first question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>did hippocrates and his contemporaries believe that hair existed primarily to absorb semen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>so the quote that you’re referencing is from a piece of christian apologetics in the journal of biblical literature and it’s called paul’s argument from nature for the veil in one corinthians eleven thriteen to fifteen a testicle instead of a head covering</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>the gist of the argument is and this is a direct quote paul appropriately instructs women in the service of god to cover their hair since it is part of the female genitalia end quote now i admittedly don’t know anything about christian apologetics nor have i read corinthians in over a decade and i am therefore completely incapable of judging the article on the merits that the author intended i only want to talk about the medicine the quotes that reference semen-containing hair are real</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>and many of them come from a remarkable little treatise in the hippocratic corpus called on glands so this short work is the first discussion of the lymphatic system in history and it’s remarkably modern the author describes the arrangement of the lymph nodes the involvement of the spleen how they can form abscesses likely from tuberculosis how they swell in response to illness and he also describes their purpose to drain fluid the author was referring to the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>four humors of course we know that’s not true today but that’s still fundamentally a major purpose of the lymphatic system the author also hypothesizes that these glands are connected by thin hollow structures which of course they are and he posits that hair might in fact be part of the same overall system which we know today that is not the case so then we have to talk about the ancient conception of well conception</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113"
+                TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>the hippocratic school believed that both men and women created semen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
+                TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>and semen was created in the head and would migrate down throughout the body during sex where it would mix in the woman’s body mixing in the womb and creating a new life</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
+                TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
+                <ANNOTATION_VALUE>semen was a fluid created in the head it would be transmitted by the lymphatic system the head was attached in their view to a number of these gland connectors the hair so wouldn’t it make sense that this semen could be stored in the hair so to answer your first question yeah really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
+                TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
+                <ANNOTATION_VALUE>now on to the second how do we establish a consensus about what the ancients really thought the answer of course is that we don’t there was a huge variety of opinions in ancient medicine and most of the writings of those doctors have not been saved</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
+                TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>we get tantalizing glimpses sometimes usually through galen disagreeing with someone so for example we know about three active medical sects in rome during galen’s lifetime the dogmatists the empiricists and the rationalists those are all very philosophical ideas about how we come to know medical knowledge that’s not the point that i’m getting at my point is that we don’t actually hear from these doctors themselves their thoughts have been lost like tears in the rain we only know about them because</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118"
+                TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
+                <ANNOTATION_VALUE>galen writing about them has been preserved often him brutally criticizing them same idea with humorism we have tantalizing glimpses of an atomist version of medicine that was not based on the four humors but these authors’ works did not survive in many ways what has been preserved about ancient medicine is more about the values of arab scholars and monks in the middle ages than it does about the ancients themselves</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
+                TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts232">
+                <ANNOTATION_VALUE>we do know that galen and hippocrates were not randos their work was preserved for a reason and they are referred to glowingly by their contemporaries but we don’t have a good sense of what if any consensus existed and what medical discussions were ongoing during the time that they were writing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120"
+                TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts234">
+                <ANNOTATION_VALUE>so zach that was a wonderful question i’m glad i got to do some reading into semen storage in hair which is not something that i ever thought i would be doing sorry that i did not know more i feel like i apologize in this segment a lot and dear listeners if any of you want to be sorely disappointed by my lackluster answers tweet me a question at adamrodmanmd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
+                TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
+                <ANNOTATION_VALUE>so that’s actually it for the show exciting and disruptive things are happening in my life after about ten years or so of bouncing around the country and the world my wife and i are finally settling down for a breather meaning that we literally just bought a house i’m recording this surrounded by packing boxes so this will be the last podcast recorded in my old place i don’t expect any imminent changes to the show but i’ll be setting up something of a recording studio in my new place</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
+                TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
+                <ANNOTATION_VALUE>so that’s kind of cool i’m also going to have some bonus content later this week i’m interviewing the author of a great article on julius wagner-jauregg cynthia tsay so expect that soon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123"
+                TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts240">
+                <ANNOTATION_VALUE>you can listen to all my episodes on the website at www dot bedside dash rounds dot org or on apple podcasts stitcher or the podcast retrieval method of your choice i’m on facebook at slash bedside rounds or on twitter at adamrodmanmd i love to hear from listeners and i’ve learned a lot from you guys so come by and say</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124"
+                TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
+                <ANNOTATION_VALUE>all of the sources are in the show notes and finally while i am actually a doctor and i don’t just play one on the internet this podcast is intended to be purely for entertainment and informational purposes and should not be construed as medical advice if you have any medical concerns please see your primary care provider</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

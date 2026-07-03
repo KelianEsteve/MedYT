@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-27T13:41:40+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/finish/Episode_28_-_Smallpox_Blankets.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Episode_28_-_Smallpox_Blankets.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3a059538-02e4-4d4a-9eee-d2f0c19064fb</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">111</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="26300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="29100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="32100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="32630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="38930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="39380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="68800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="69300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="84900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="85600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="88420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="89100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="95600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="96120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="104420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="108700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="109120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="133910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="134100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="145100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="145800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="164400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="165000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="169300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="169800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="176000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="176900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="205400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="205700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="212500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="213200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="234580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="235100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="249300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="249990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="276400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="276750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="282600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="282940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="291600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="292140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="306500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="306960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="334900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="335200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="339400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="339780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="355000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="355370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="362500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="363100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="392400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="392600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="394400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="394800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="399900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="400400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="429100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="429400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="441100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="441600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="454300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="454700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="468000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="468500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="484800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="485400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="496600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="497000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="517900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="518500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="547800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="548500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="568400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="569100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="597880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="598300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="608000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="608800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="625700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="626400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="644600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="645200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="670800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="671300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="683100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="683500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="692200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="692600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="703970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="704300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="732820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="733000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="740900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="741400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="764100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="764500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="793400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="793900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="807800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="808300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="830000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="830600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="842200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="842600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="865700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="866000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="872000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="872500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="877800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="878300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="880000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="880900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="906300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="906800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="919500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="920200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="926400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="926800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="956300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="956400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="964300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="964800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="976400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="976900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1003280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1003400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1024000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1024100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1053500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1053600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1060300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1060900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1079400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1079670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1104010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1104140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1112100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1112500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1143730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1143870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1157990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1158400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1185300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1185330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1215840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1215910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1233400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="1233900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="1259090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="1259400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="1288930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="1289040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="1311400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="1311900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="1327200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="1327700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="1354850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="1354990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="1374040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="1374140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="1406110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="1406300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="1426860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="1426980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1447100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1447300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1476720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1476830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1503640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1503870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1523700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1523900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1547760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1547870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1563300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1563710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1574500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1574850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1601400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1601510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1605250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1608220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1626610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="1626830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="1655400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="1655530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="1674940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="1675160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="1696700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="1696830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="1725400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="1725900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="1729500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="1730020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="1786600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="1786770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="1813100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="1813400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1818810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1821600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1833800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1834030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1852800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1853000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="1877100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="1877300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="1905400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="1905620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="1927400"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Talk" TIER_ID="Adam Rodman">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>this is adam rodman and you're listening to bedside rounds a tiny podcast about fascinating stories in clinical medicine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>this episode is the first of a two parter and it's called smallpox blankets we're going to talk about the mysterious origins of smallpox how humans learned to fight to the disease and how this knowledge was turned into a weapon of war especially against indigenous peoples in the new world</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>so i want to start by telling you a legend</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>it's high in the andes mountains and an emissary from a faraway land has come to seek an audience with the king</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>he's clad in a black coat and he's bearing gifts the king eagerly invited him into his court among the treasures that he brings is a small locked box that only the king can open after providing the key the emissary slinks away eager to see what delight the strange man has brought him he unlocks the box in the middle of his court it swings open and a mysterious substance flies out like and i'm quoting here scraps of burning paper one by one the courtiers and the king fall ill</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>soon they are covered head to toe in quote burning scabs the disease brings death and quickly spreads among the people of his kingdom soon after the armies of the spanish arrive easily vanquishing those that the disease had spared</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>this particular story is almost certainly apocryphal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>but to those in the waning years of the great empire of the inca and the beginning of spanish colonialism it felt viscerally real</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>this particular version dates to sixteen thirteen written by a spanish speaking native in peru preserving what was presumably a longstanding myth</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>a disturbingly similar legend is told by the ottawa indians of the great lakes region</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>after aiding the french against the british in what we americans call the french and indian war the indians were sold a small tin box which they were instructed not to open until they reached home the tribe followed the instructions inside was a second tin box and inside of that another and then another a russian doll until the last box was opened to reveal quote nothing but mouldy particles</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>soon after the tribe became ill with a terrible sickness this is purported to have happened in seven hundred fifty seven though the legend itself was recorded in print in eight hundred eighty seven</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>these legends certainly take on a mythic quality poisoned gifts treachery foreign conquerors but are they based in truth was colonialism in the new world allowed by a biological warfare on a massive scale and to what degree did our medical understanding of smallpox allow for this</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>to find out we're gonna have to go way back to the very beginning</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>to the beginning of smallpox to the beginning of war and to the beginning of civilization itself</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>so smallpox is fundamentally a disease of civilization the virus has no natural reservoir except humanity and it requires a certain amount of concentration to spread so it probably started in either ancient india or egypt in the beginnings of the twentieth century there was a paper published detailing three smallpox mummies that were still covered in pustules dating to about fifteen hundred bce but these mummies were lost in the chaos surrounding the great war</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>however plenty of contemporary egyptian mummies do show telltale pockmarks including rameses the fifth</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>it's unclear when smallpox appeared on a grand scale there's always been active debate that this or that ancient plague might have been the smallpox but nothing really convincing has emerged in fact for a disease that would ravage humanity there are no definitive references until the fourth century ce in china and not until theenth in the mediterranean</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>so both of these doctors ko hung in china and al-razi was writing in asia minor clearly define smallpox as a disease of children a sign that they were endemic in these regions for at least several generations before the doctors wrote about them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>doctors in china india and the mediterranean left plenty of detailed descriptions of modern diseases including epidemics like bubonic plague so their silence on smallpox probably suggests that disease really didn't start spreading until fairly late in civilization probably in the first couple of centuries in the common era first pushing into china and then the large cities of the mediterranean in the middle east and finally into the still relatively sparsely populated europe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>by the tenth century ce smallpox had spread broadly across the eurasian continent and north africa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>it spread further south only stopped by the mighty sahara desert in africa and the seas of southeast asia the human cost was staggering</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>in the last one thousand years smallpox has been responsible for roughly ten percent of all human deaths and don't think that the invention of vaccination stop that half a billion of those deaths were in the twentieth century alone</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and these were horrible deaths after exposure victims would get flu-like symptoms high fevers chills body aches then a splotchy rash would break out all over the body after a few days that rash would blister so for some blood would start to ooze from these pox and you'd die within twenty four hours the lucky ones were permanently scarred with pockmarks the next time you're in an art museum or looking at photos from the nineteenth century take a close look at the faces</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>pock-marked faces were ubiquitous until surprisingly recently</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>as you can imagine the effect on societies were massive in both india and europe there were common sayings that children should not be considered for inheritance until they had survived smallpox there was a pantheon of gods dedicated to the disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>you've probably never heard of saint nicaise but he was a patron saint of smallpox in very popular in catholic countries prior to the twentieth century</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>among the yoruba in west africa the worship of sapona or shapona the smallpox god was so common and fearsome that the colonial british outlawed it and worship of the deity was identified as a barrier to universal vaccination in the nineteen sixties two centuries later and in china t'oushen niang-niang was a god identified with the historical nun who introduced variolation the first effective prevention of smallpox she was the most commonly worshipped deity in china</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>in the mid nineteenth century</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>up until the massive population growth in cities in the nineteenth century smallpox would flare</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>physically on five to seven year intervals in endemic areas and then occasionally spill over to areas where it was not endemic we have pretty good records of this especially in japan where temples keep detailed records on their population so we know for example that in a small village on the island of honshu there was one of these smallpox flares in the fourteen hundreds it infected about twelve hundred people of a nonimmune population of about fourteen hundred and four hundred sixty of those infected died</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>that's a case fatality rate of thirty eight point three percent that is for all the infected thirty eight point three percent of them died just imagine that happening multiple times throughout your life</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>and things would get a lot worse when smallpox left the confines of eurasia so spanish and portuguese colonialists seeking glory god and lots of gold said sale for the recently discovered new world</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>the indigenous populations of this new territory lived in a complex and urban society so arguably and i didn't notice the inca civilization was the largest the world had ever seen despite lacking writing the wheel and pack animals</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>the ancestors of these civilizations had migrated over the antediluvian land bridge well theoretically that had once connected north america and asia and this bottleneck effect spared them the diseases that had wrecked eurasia but it also spared them the natural immunity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>the spanish and the portuguese brought plenty of horrors to the people of the aztec and inca empires slavery murder plunder rape and systematic annihilation of their culture</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>but bringing smallpox might have been the worst the spanish kept pretty good records so we can estimate that about twenty five million people lived in the area of the aztec empire so in what is now mexico and central america prior to the spanish conquest just ten years later after the spread of smallpox there were only sixteen point eight million</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>from here we can get the context of that inca folk tale of the black-clad emissary from the beginning of the episode from modern mexico smallpox burned its way south into inca territory by fifteen twenty four an outbreak had killed two hundred thousand people in the empire including the king and his immediate successor the empire was thrown into chaos and pizarro and a small band of spaniards apparently only forty of them easily conquered cuzco and killed the last heir of the empire just ten years later</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>the natives of north america were spared for a time until the british started forming colonies on the atlantic seaboard unlike the spanish and the portuguese the british killed and chased away local so we don't have great records but contemporary estimates suggest that outbreaks of smallpox rapidly killed one half to two thirds of the indians in british territory</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>the history of the settling of north america often omits how essential smallpox was to european conquest not only were large swathes of the native population rapidly killed but the locals would dissipate to escape the disease spreading the plague further men of fighting age were killed off pregnant women and children were especially vulnerable which affected the societies for years to come and power structures were smashed so resistance was far more difficult</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>i am no historian but i have to imagine that had there been endemic smallpox in the new world the current map of the americas might look very different than it does today</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>convenient for the europeans devastating for the natives but the question of course is was this spread of smallpox natural just as it had spread over the eurasian continent or was it a deliberate act of biological warfare in order to answer this we need to look at the history of war itself</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>biological warfare narrowly defined as weapons using toxins or biological agents has been around since the beginning of civilization anthropologists in the twentieth century have shown that a variety of indigenous peoples in disparate parts of the world use toxin-tipped arrows and darts as part of hunting</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>we have lots of ancient examples of this as well so the best documented is scythian arrow poison which was a mixture of dead vipers and human blood that was buried in a dung heap and allowed to putrefy aristotle described it as corrupted blood and pliny a matter of factly described its effects he stated this nefarious practice makes a wound incurable by a light touch it causes instant death</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>modern researchers have taken this recipe and they've shown that it would likely contain clostridium tetani or tetanus and the bacillus species which includes anthrax</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>poisoned arrows actually survived into the middle ages until the advanced killing power of the longbow made extra poison kind of redundant and unnecessary</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>but biological warfare in the sense that we know it today that is using an infectious agent to kill an entire population was the exception rather than the rule until very recently</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>the historian w seth carus has performed an exhaustive review of claims of ancient biological warfare many of the alleged cases appear to be more myth than fact or were in fact attempts at poisoning water supplies which isn't truly biological warfare since the intent is to prevent people from drinking the water rather than making them actually sick in fact he only identified one credible case from this time period and that is the mongol siege of caffa in crimea</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>where victims of the bubonic plague were catapulted into the city and an outbreak of bubonic plague was soon after noted</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>the only credible case i should mention until the smallpox outbreaks in the new world carus starts with the story i opened with that pizarro provided a box with scraps of smallpox infected clothing killing the incan king prior to conquering cusco this he concludes is a is apocryphal this initial spasm of smallpox was probably part of its natural spread</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>but stories of the spanish spreading contaminated clothes and blankets spread throughout the terrified peoples of central and south america at least as recorded by folklorists centuries later but that very likely may have been because of the actions of another colonial power the first definitive documented use of smallpox as a weapon happened much later long after the natives of the southern parts of the american continents had been subdued and crushed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>it was seven hundred sixty three and chief pontiac who is chief of one of the tribes of the great lakes region had aligned his people with the french as part of the french and indian wars to fight british encroachment into his territory</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>the english were besieged at fort pitt which at that time was a remote backwater on the frontier but now is in the area that is near pittsburgh as the situation looked increasingly desperate the british commander jeffrey amherst wrote to the local commander henry bouquet in a correspondence that still exists to this day</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>he writes could it not be contrived to send the smallpox among the disaffected tribes of the indians we must on this occasion use every stratagem in our power to reduce them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>and bouquet responded i will try to inoculate them with some blankets that may fall in their hands and take care not to get the disease myself it's unclear that amherst's orders actually made it to the fort in time but it also didn't really matter because later that summer two of pontiac's men came to the fort for peace negotiations william trent a traitor documented what happened next</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>after their discussion the two men asked for quote little provisions and liquor to carry us home</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>trent writes that we gave them two blankets and a handkerchief out of our smallpox hospital</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>i hope it will have the desired effect</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>and apparently it did because weeks later the disease tore through the besieging natives allowing bouquet to rout them and relieve the fort the event did not go unnoticed by bouquet and amherst’s superiors who recognized that using smallpox as a weapon was something new outside the confines of traditional warfare though to be clear not inappropriate against a native population that they considered inferior</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>and they were right in retrospect white and especially british use of smallpox against indigenous peoples is the birth of modern biological warfare and all the horrors that entails</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>that smallpox as a weapon would start emerging in the latter half of the eighteenth century is no historical fluke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>during this period there was a dramatic increase in the medical understanding of how to treat the disease especially in britain this would all culminate in seventeen ninety six with edward jenner's invention of vaccination so doctors had long noted that those who were pockmarked couldn't be affected again by the disease sometime towards the end of the first millennium of the common era it was noted probably by accident that those who were infected with smallpox by the cutaneous route</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>that is by having pus or a scab get directly into a cut in the skin would suffer a far more mild and localized version of the disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>by the tenth century the chinese were grinding up dried scabs and inhaling them in secret religious rites to protect people and by roughly fifteen hundred this would become part of the standard medical practice in china</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>the process also started apparently independently in india where practitioners would prick children with a needle dipped in smallpox pus this method of cutaneous inoculation is called variolation though this a modern name to differentiate it from vaccination doctors at the time used horticultural terms like engrafting or transplanting variolation would cause a large pus-filled primary lesion with smaller satellite lesions around it i’ve posted some great</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>and kind of gross images on twitter of these from the nineteenth century if you're curious variolation was far safer than a primary infection and it too would confer a lifelong immunity to smallpox but it still had major problems first of all the case fatality rate was between point five and two per cent</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>which means that if you got variolated to prevent smallpox you still had between a one in two hundred and a one in fifty chance of dying which i mean is great compared to thirty to seventy per cent for smallpox but still pretty bad for preventive treatment and this was not an attenuated or killed virus variolation could cause local outbreaks of natural smallpox since these lesions were infectious and in societies in which it developed variolation was used to protect individuals only</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>and of course the true power of vaccination is that it can protect entire societies by decreasing natural reservoirs of disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>from india variolation spread to the ottoman empire where europeans came into contact with the idea the british in particular were ardent converts in seventeen fourteen an influential report on chinese variolation was presented by the royal society in london and soon after statistical analysis confirmed its protective effect</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>after this it caught on like wildfire only six years later the royal princesses were being variolated and by seventeen forty six the london smallpox and inoculation hospital offered free variolation to everybody by the seventeen nineties government plans were drawn up to eliminate smallpox from the british isles by use of quarantine and variolation jenner's vaccine of course would offer a far safer alternative and we'll go more into this in part two</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>but needless to say the widespread variolation practiced in england directly led to the development of vaccination</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>in british north america these ideas also caught on easily mandatory variolation was practised in boston and when the colonies rebelled george washington ordered variolation of all of his new recruits all of this is to suggest that by the seventeen hundreds when lord amherst is considering biological warfare the english were well versed in how to spread the disease and would have had supplies of dried scabs and puffs on hand in order to practise variation to protect their own people as well as public smallpox hospitals that provided ample fresh material</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>it is no coincidence that the people who understood management of smallpox on a population level the best and who would ultimately invent the mechanism to rid the world of it would also be the first to plot to use smallpox as a weapon against entire populations</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>and indeed basically all the confirmed accounts of using smallpox as a weapon come from the english speaking world during the american revolutionary war the british attempted to foment smallpox outbreaks on the rebel lines and during the follow-up war of eighteen twelve the americans would repay the favor by trying to start outbreaks among british aligned indian tribes during the american civil war there were widespread rumors in confederate territory that the union was attempting to spread smallpox in the south</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>while these were apparently baseless but we know for sure that the confederacy attempted to use biological warfare against the north luke pryor blackburn a physician from kentucky bought a large amount of blankets and clothing from yellow fever hospitals in bermuda and he also shipped a valace of smallpox painted clothing to president lincoln unfortunately for blackburn we know today that yellow fever is spread by mosquitoes not fomites and lincoln had actually been infected with a mild case of smallpox several years before rendering him immune</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>so blackburn was essentially a war criminal by modern conventions his plot failed because it was revealed by one of his associates but he managed to escape prosecution by fleeing to canada after the war though later he returned to his native kentucky post reconstruction where he was elected governor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>as the united states spread west across the continent smallpox followed and the stories increased of whites intentionally spreading the disease to the natives while the claim that the us army intentionally spread smallpox among the mandans by disgrace historian ward churchill has been debunked there are actually first hand accounts of wagon trains intentionally leaving behind smallpox tainted clothes to attempt to spread the disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>claims like these are naturally hard to investigate and the cataclysmic nature of epidemics lends itself to rumor but it's clear that the belief that whites were spreading smallpox through clothes was widespread in white black and indian communities across north and south america the folklorist adrian mayor has analyzed many of these stories and convincingly argue that they are examples of archetypal poison dress or a so called nessus shirt stories that's named after the poisoned shirt that killed hercules which was given to him by his wife</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>these stories have typically proliferated when populations are under external threats and they would have served as a warning against the white invaders as well as a way to contextualize these new outbreaks and define the bounds of acceptable warfare in conflict though i'd also like to argue that it's fully possible that the preponderance of these tales might also be because whites were intentionally spreading smallpox</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>and yes while evidence is lacking there is one other time where there is incredibly strong circumstantial evidence that suggests that the british use smallpox with genocidal intent against the native population and that is the conquest of australia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>so let's start with undisputed facts the british empire used to ship convicts to its north american colonies but after the treaty of paris resulted in american independence in seventeen eighty three this was cut off the remote southern continent of australia made an attractive alternative option and in seventeen eighty seven the first fleet set sail with between the numbers are fuzzy but between a thousand and fifteen hundred convicts marines and seamen to set up a colony in botany bay</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>at this time australia was already populated by up to one million aborigines located in the hospitable coastal regions in seventeen eighty nine a massive smallpox outbreak started in the area around botany bay that would ultimately kill up to ninety percent of the aborigines in the area and devastate the population throughout the continent</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>so for example we know that the hms sirius was one of the ships to accompany the first fleet and soon after return to england after founding the colony when she returned two years later the crew was astonished at what had happened so we have a lieutenant bradley who wrote in his log that he was shocked at the small number of natives who greeted them at sydney cove and midshipman newton fowell would later write in his journal about all the bodies that the crew would find just lying around he saw them and i'm quoting here lying dead on the beaches and in the caverns of rocks forsaken by the rest as soon as the disease is discovered on them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>they were generally found with the remains of a small fire on each side of them and some water left within their reach and the final undisputed facts the first fleet came carrying vials of smallpox to be used for variation in case the settlers encountered the disease on the new continent and also there was no smallpox among the first fleet prior to landing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>the surgeon general kept precise records and the two hundred fifty two day journey was long enough that any existing disease would have burnt itself out there are two competing theories about how smallpox was spread among the aborigines but the dominant explanation among modern historians is that it came from the settlers themselves very likely deliberately</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>the historian christopher warren has pointed out the precarious position of the settlers in getting to this new land the first fleet left without its military supplies so it had no extra supplies of ammunition or tools to repair its weapons and while they purchased musket balls in rio de janeiro records show that they would have lasted less than a year the amount of local resistance was much higher than expected so the british had stolen a considerable amount of the aborigines land and fishing nets in the harbor quickly depleted traditional fisheries that the natives had depended on</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>and the british only had a hundred and sixty marines and we know that the governor of the new colony thought this was way too few he begged for at least five hundred more to protect the colony and so by seventeen eighty nine the settlers likely would have viewed their new settlement on the verge of being overrun and collapsing it is within this context that smallpox broke out among the aborigines the disease was devastating that modern case fatality rate was estimated to be up to seventy per cent</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>though the havoc that the disease wrecked on the civilization likely drove the fatality rate much higher any resistance to the british collapsed completely allowing the colony breathing room to wait for resupply ships warren argues that the british had the appropriate knowledge precedent and the supplies of smallpox to carry off such a biological attack</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>even people at the time suspected that the colonists had used smallpox as a weapon we know because we have a letter from the captain of the sirius who defended himself writing and quoting it is true that our surgeons had brought out variolous materials and bottles but to infer that it was produced from this cause were a supposition so wild as to be unworthy of consideration and he blamed of course the french for spreading the disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>but as alternative explanations have been winnowed down future generations have found those bottles of smallpox scabs more and more worthy of consideration but of course unless there are new documents that are on earth this will continue to remain circumstantial</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>so that's it at the same time that humanity was learning to contain smallpox we turned it into a weapon to be used against our enemies and as a tool potentially for genocide</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>next month these contradictory themes will be taken to their logical conclusions in the twentieth century while we discover how to prevent smallpox and the dream of globally eliminating the disease becomes a reality we further weaponize the virus and we also talk about how humanity's great success in destroying probably our greatest enemy potentially sets us up for an even scarier type of smallpox blanket well that's it for the show</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>but wait it's time for a hashtag adam answers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>we got a lot of great questions this month so i'll be answering some next time but given the subject matter this episode it's apropos to answer doctor david sirota's question which is what is the most infectious disease so first let's talk about the difference between diseases being infectious and contagious</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>though these terms are all often used interchangeably they have small but significant differences a disease's infectiousness refers to how many organisms it takes actually cause the disease so for example salmonella isn't particularly infectious by the standard it takes an ingestion of like a hundred thousand organisms to actually cause the disease viruses can infect you with a single copy making them far more infectious contagiousness on the other hand refers to the ability of a disease to spread</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>all of that being said this is mostly just to keep nitpickers at bay because i don't want to be pedantic most people and that includes me use both of these words interchangeably to mean how easily a disease spreads so let's do a little epidemiology in epidemic theory we have the basic reproductive rate which is called r-naught</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>that's r with a little zero next to it and this refers to the ability of a single infected individual to cause secondary infections in a susceptible population an r-naught of one will spread to one more individual it'll remain endemic in that population and an r-naught less than one will burn out on its own and an r-naught of greater than one will cause an epidemic</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>this is of course a theoretical construct because a fully susceptible population doesn't really exist we have vaccination and modern methods to deal with outbreaks like quarantine and isolation that being said we've calculated r-naught for basically every single infectious organism and the winner is drumroll please measles so it has an r-naught of twelve to eighteen and it's followed closely by pertussis that's whooping cough with an r-naught of twelve to seventeen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>smallpox comes in about fourth and are not a five to seven</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>put this into perspective so last year the world collectively freaked out about ebola to this day and it is november twenty seventeen i get asked by my patients if i was exposed to ebola while i worked in botswana and mind you the us had more cases of ebola than botswana which had exactly zero so you think that ebola must be the most infectious disease in human history right but you know what the r-naught is so in west africa which lacks the sophisticated public health infrastructure of high income countries the r-naught has been calculated between two and three one final thing to mention for the seven most infectious diseases as ranked by an r-naught we have vaccinations for all of them vaccination has saved millions and i'd argue billions of lives the current attack on vaccination programs represents an attempt to undo probably the greatest life saving intervention that humanity has ever undertaken</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>so thank you for that question doctor sirota and i haven't been exactly counting but i think you deserve some sort of an award for submitting the most questions to hashtag adam answers so we should really rename this segment something like hashtag doctor sirota asks but we'd lose the alliteration so to the remainder of my listeners i want you to beat doctor sirota and submit more questions so if you have any questions about medicine no matter how trivial silly</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>or you know fundamentally deep and interesting you can ask me on twitter at adam rodman md</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>okay i hope you enjoyed the episode i had originally planned just to update my original third episode called dark winter but like often happens i went down a rabbit hole and you are listening to the fallout of all that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>so i have a couple updates first i made a short video about my time in botswana for my job so if you are curious what i was up to while i was in africa i posted it to the website and you can see it on my youtube channel i'm going to warn you right now it's really really cringworthy second update</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>i have launched a patreon account for this podcast bedside rounds has grown dramatically since i was a resident looking for a good storytelling medical podcast and foolishly decided to make my own each monthly episode takes up to twenty hours of research writing recording and editing mind you i love doing this but it is my hobby believe it or not i'm a full time doctor on top of all my other extra curriculars</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>so if you love listening to bedside rounds as much as i love making it consider giving me some support no matter how much at www dot patreon dot com slash bedside rounds you can listen to all our episode at www dot beside  rounds dot org on apple podcast stitcher or the podcast retrieval method of your preference i'm on facebook at slash bedside rounds and twitter at adam rodman mdso drop by and say hi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>now with two hundred and eighty characters all of my sources are in the show notes and finally while i am actually a doctor and i don't just play one on the internet this podcast is intended to be purely for entertainment and informational purposes and should not be construed as medical advice if you have any medical concerns please see your primary care provider</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Talk" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

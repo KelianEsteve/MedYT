@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-27T14:13:11+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/NEJMdo250925.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./NEJMdo250925.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2494cf78-2049-4404-ba95-1ce9800a7ece</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">180</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="17850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="44690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="46800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="51460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="57560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="58600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="64450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="64870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="70920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="71420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="100800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="101340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="117870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="118310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="129511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="130807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="184188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="184630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="193530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="193870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="197640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="197890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="214170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="214380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="219000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="220930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="225320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="225710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="231680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="232840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="247900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="248310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="261220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="261550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="269480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="269810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="274440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="274990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="296100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="296470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="302150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="302600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="315460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="316870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="353160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="353480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="369690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="370170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="409840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="410020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="421410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="423360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="428790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="429350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="434850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="435920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="486020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="486570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="503320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="503630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="509970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="511760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="517070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="517360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="518860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="519180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="524280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="524980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="528940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="529160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="539470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="539800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="561430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="561840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="587500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="587870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="600400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="602380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="615860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="616670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="640860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="641240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="655630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="655930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="659680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="659950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="666620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="666890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="678970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="679390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="694300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="694630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="712950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="715090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="719980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="720420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="755950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="756390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="795640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="797570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="807886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="808534"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="827102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="827443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="869772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="870068"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="915545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="917375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="930397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="931226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="964045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="964273"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1006624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1008613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1022375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1023136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1103398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1103784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1123568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1125511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1137147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1138101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1151090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1151499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1198318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1198636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1236898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1238818"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1248136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1249295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1290898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1291272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1296727"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1297579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1332454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1332977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1351307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1351965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1376170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1378409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1410488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1411261"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1428170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1429409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1443918"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Talk" PARTICIPANT="Michael Beerer" TIER_ID="Michael Beerer">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>welcome</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>this is the new england journal of medicine i'm doctor michael beerer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>this week september twenty fifth twenty twenty five we talk about heart failure provoked venous thromboembolism chronic lymphocytic leukemia and acute ischemic stroke </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>a review article on medical education to improve diagnostic equity a case report of a man with embolic stroke and left ventricular apical aneurysm two articles on the two thousand twenty five lasker debakey clinical medical research award and perspectives on structural and scientific racism on the gates foundation's final chapter and on doctor kolhouse and the cowboy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>digitoxin in patients with heart failure and reduced ejection fraction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>by udo bavendiek  from hannover medical school hannover germany and co-authors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>cardiac glycosides have been used in the treatment of heart failure for two centuries</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>however evidence of benefit in patients with heart failure and reduced ejection fraction is limited</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>in this trial 1,212 patients with chronic heart failure who had a left ventricular ejection fraction of 40% or less and a new york heart association NYHA functional class of three or for or a left ventricular ejection fraction of 30% or less and an NYHA functional class of two were randomly assigned to receive the cardiac glycoside digitoxin or matching placebo in addition to guideline directed medical therapy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>treatment with digitoxin led to a lower combined risk of death from any cause or hospital admission for worsening heart failure than placebo among patients with heart failure and reduced ejection fraction who received guidelined directed medical therapy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>at least one serious adverse event occurred in 4.7% of patients in the digitoxin group and in 2.8% of those in the placebo group</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>marc pfeffer of the mass general brigham heart and vascular institute boston writes in an editorial that the trial by bavendick and co-authors should be viewed against the backdrop of the diminished use of dejoxin the decline in the use of dejoxin was doubtless multifactorial the compelling evidence that beta blockers prolong survival in contrast with the excess mortality noted with newer inotropic agents reduced enthusiasm for cardiac glycoides digitoxin which was used in the study by bavendick and co-authors is a less studied non-FDA approved cardiac glycoside in that trial the incidence of primary outcome events death from any cause or hospitalization for worsening heart failure whichever occurred first was lower in the digtotoxin group than in the placebo group</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>but the trial faced recruitment challenges and the reduced sample size inevitably limited the reliability and conclusiveness of the findings</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>but the trial offers clinicians an important reminder</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>of the existing opportunities with the approved cardiac glycoside dejoxin at present the judicious use of dejoxin to reduce the incidence of complications related to heart failure with reduced ejection fraction in carefully selected patients</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>is an available and important option for physicians and patients</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>apixaban for extended treatment of provoked venous thromboembolism</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>by gregory piazza from brigham women's hospital harvard medical school boston and co-authors
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>venous thromboembolism VTE has traditionally been categorized as provoked occurring after such transient risk factors as surgery trauma or immobility or unprovoked occurring without a readily identifiable trigger</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>extended duration anticoagulation is commonly prescribed for patients with unprovoked VTE because of a high risk of recurrence 6 to 10% per year after the discontinuation of anticoagulation. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>for patients with provoked VTE who do not have either cancer or severe thrombophilia the recurrence risk is lower</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>in such patients guidelines typically recommend 3 months of anticoagulation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>in this study 600 adults with VTE after the occurrence of a transient provoking factor who had at least one enduring risk factor and had completed at least 3 months of anticoagulation were assigned to receive oral apixaban at a dose of 2.5 mg twice daily or placebo for 12 months</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>the trial population had a broad range of provoking factors and enduring risk factors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>among these patients low intensity therapy with apixaban for 12 months resulted in a lower risk of symptomatic recurrent VTE than placebo with a low risk of major bleeding</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>editorialist neil zakai from the university of vermont burlington writes that the finding of this trial by piazza and co-authors underline the importance of individualized decision-making regarding the use of anticoagulation after provoked VTE particularly in patients with persistent risk factors for VTE it also exposes the limits of our current VTE categories the overall terms of provoked or unprovoked are too blunt to guide care because they group together patients with hugely different recurrence risks</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>thus we need to develop and validate models that integrate baseline risk factors features of the acute event bleeding risk patient values and clinician experience to determine who may benefit from extended VTE prevention</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>above all we need clear standardized definitions of triggering factors so that patients with similar risks are grouped and treated consistently extended anticoagulation can offer substantial benefit to selected patients with provoked VTE but only if we are able to identify them accurately future prevention strategie should blend scientific evidence clinician judgment and patient values the goal is not simply to decide whether to extend therapy but to know for whom the benefits outweigh the risks and how patients and treating clinicians weigh those benefits and risks</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>the provoked label should not end the conversation regarding the duration of anticoagulation it should be the opening to an individualized patient centered conversation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>measurable residual disease guided therapy for chronic lymphocytic leukemia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>by talha munir from the leeds cancer centre united kingdom and co-authors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>in this phase three trial patients with chronic lymphocytic leukemia CLL were randomly assigned to receive the oral BTK inhibitor ibrutinib combined with the oral small molecule inhibitor of BCL2 venetoclax or ibrutinib alone or the chemoimmunotherapy regimen of fludarabine cyclophosphamide rituximab FCR an interim analysis of progression free survival in this trial showed that ibrutinib venetoclax was superior to FCR among the patients with CLL now the investigators present the results of a planned analysis comparing measurable residual disease MRD guided ibrutinib venetoclax with ibrutinib alone and FCR with extended follow-up</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>with extended follow-up and increased enrollment the trial showed that undetectable MRD and extended progression free survival occurred more often with ibrutinib venetoclax than with ibrutinib alone or FCR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>the results for overall survival were also consistent with a benefit of ibrutinib venetoclax</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>early tirofiban infusion after intravenous thrombolysis for stroke </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>by chunrong tao</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>from the university of science and technology of china hefei and co-authors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>acute ischemic stroke is the leading cause of death in china</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>and among the leading causes of death worldwide intravenous thrombolysis within 4.5 hours after onset remains a standard treatment for acute ischemic stroke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>vascular reocclusion may occur after intravenous thrombolysis and may be preventable with the addition of an antiplatelet agent within the first 24 hours after thrombolysis tirofiban a platelet glycoprotein 2b3a receptor antagonist has reduced macrovascular reocclusion in experimental models</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>in this phase three trial conducted at 38 centers in china 432 patients with acute ischemic non-cardioembolic stroke who presented within 4.5 hours after stroke onset and who were not eligible for thrombectomy were randomly assigned to receive a 24-hour intravenous infusion of tirofiban or placebo within 60 minutes after intravenous thrombolysis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>in these patients early tirofiban increased the likelihood of an excellent functional outcome the incidence of intracranial hemorrhage was low but higher with tirofiban than placebo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>advancing diagnostic excellence with medical education in diagnostic equity a review article by denise connor from the university of california san francisco and co-authors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>diagnostic error a long-standing quality and safety problem now receiving increasing recognition encompasses the spectrum of mistakes and inappropriate delays in identifying and communicating accurate diagnoses diagnostic errors are often hidden and challenging to measure however researchers are now successfully doing just that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>until recently studies addressing diagnostic error largely overlooked ways in which interpersonal and systemic racism and other forms of oppression such as ableism and sexism may contribute to such errors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>a growing literature regarding inequities in diagnosis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>disparities and occurrences of diagnostic error that disproportionately affect persons in relation to their social identities</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>is raising awareness about this previously obscured issue in parallel with increased attention to diagnostic error medical education has also increased its focus on health equity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>in this article the authors review how attending to the intersection of clinical reasoning education and health equity education centering on the emerging concept of diagnostic equity can support diagnostic excellence</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>the authors present strategies drawn from the literature on diagnostic reasoning health equity implicit bias structural competency and healthcare communication to guide clinician educators and educational programs in supporting equity in the diagnostic process</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>a 53 year old man with embolic stroke and left ventricular apical aneurysm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>a case record of the massachusetts general hospital by garrick stewart and colleagues a 53 year old man presented with acute multifocal stroke affecting the left middle cerebral artery resulting in right-sided weakness and expressive aphasia his symptoms had followed several days of abdominal discomfort and an episode of coffee ground emesis evaluation revealed a dilated left ventricle with severe systolic dysfunction and an apical aneurysm though no obstructive coronary disease or intracardiac shunt was identified</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>over several months despite guideline directed medical therapy his left ventricular ejection fraction remained reduced and cardiac MRI showed extensive fibrosis with apical dyskinesis given his immigration from central america where trypanosoma cruzi infection is endemic and the characteristic findings of ventricular dilation apical aneurysm and embolic stroke serologic testing was performed two distinct antibody assays were positive confirming the diagnosis of chronic chagas cardiomyopathy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>transformative research in cystic fibrosis a clinical implications of basic research by eric sorscher from emory university school of medicine atlanta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>in 1938 physician scientist dorothy anderson first described cystic fibrosis a lethal disease in infants and children characterized by pancreatic fibrosis with cyst formation and bronchiectasis including thick inspissated secretions that obstruct the airways</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>cystic fibrosis has subsequently been classified as a generalized exocrinopathy involving numerous additional epithelial tissues such as the liver intestines reproductive tract and sweat glands during the ensuing decades palliative treatments became standard care and prolonged lives but the pathogenic mechanism remained a mystery the identification in 1989 of the causal gene CFTR which encodes the cystic fibrosis transmembrane conductance regulator CFTR was a milestone although whether the breakthrough would result in better treatments was unclear</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>over time michael welsh jesús gonzález and paul negulescu would elucidate the pathogenesis advance pharmaceutical science in remarkable new directions and provide a transformational therapy for the disease their achievements are recognized by the 2025 lasker debakei clinical medical research award the recorded life expectancy of a person with cystic fibrosis was generally months to a few years when dorothy anderson first described the disease today the projected median age of survival for persons with cystic fibrosis who were born between 2020 and 2024 and have access to treatment is 65 years</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>surprisingly complex assemblies from low-complexity domains a clinical implications of basic research article by tanja mittag from saint jude children's research hospital memphis tennessee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>low-complexity domains in proteins are composed of a small subset of the full complement of amino acids and in these domains the amino acid sequences are often repetitive their relevance to health and disease is underscored by the 2025 albert lasker award for basic medical research given to dirk görlich and steven mcknight for showing that low-complexity domains lack structure and yet can form into assembled states that mediate critical functions in cells</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>the combined work of görlich and mcknight on low-complexity domains indicates the plastic and manifold abilities of these protein domains moreover the insights of görlich mcknight and their colleagues are being harnessed in medical research for example in the context of neurodegenerative disease possibly charting a course through therapies aimed at slowing or curing neurodegenerative disease in another example the realization that self-assembly by low-complexity domains can drive the formation of signaling condensates may solve an urgent problem in heart transplantation medicine that may improve donor heart quality</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>structural and scientific racism science and health evidence versus ideology a perspective by nancy krieger and mary basset from the harvard TH chan school of public health boston</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>despite decades of rigorous work documenting the harmful effects of structural racism on health health care and scientific knowledge and research the current executive branch of the US government and its political appointees have deemed work on structural racism and health to be ideological and quote not scientific consequently the government has terminated national institutes of health and other federal grants funding work it considers to be focused on DEI or diversity equity and inclusion these moves conflate research on health equity with work that aims to change the composition and climate of the scientific workforce and institutions opposition to these government actions now extends from the scientific community to the legal arena with a federal judge ruling on june 16 that the grant terminations are discriminatory and illegal the contradictory stances of current NIH leaders on one side and a broader scientific community and the district court on the other aren't merely a matter of opinion or quote viewpoint diversity the difference is evidence only the latter position is informed by high quality research conducted over the course of a generation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>as the district court recently made clear the refusal of the executive branch of the US government and its political appointees to engage with the substantive evidence about and to fund research on the harmful effects of racism on health is itself a form of racial discrimination</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>from health to wealth reframing global aid through the gates foundation’s final chapter a perspective by steven phillips from the covid collaborative washington DC</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>bill gates announced in may 2025 that the bill and melinda gates foundation would disperse 200 billion dollars by 2045 culminating in the closure of the institution</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>this sunset clause uncommon in big philanthropy comes at a moment of major uncertainty for global health finance in 2024 global health aid part of official development assistance which is the international flow of government aid from high-income countries experienced its steepest decline in a generation making a potential inflection point for international development funding since its launch in 2000 the foundation has distributed approximately 62 billion dollars in global health grants in his 2014 annual letter gates speculated that quote by 2035 there will be almost no poor countries left in the world</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>his prediction was attributed to innovation in vaccines digital tools improved education and global partnerships the substantial health benefits of the health to wealth transformation of the past quarter century are well documented but with regard to broader development outcomes the picture is more complicated the disperate results make clear that even when health improves deeper economic shifts don't always follow now the foundation's core proposition that health begets wealth must contend with the mixed macroeconomic evidence</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>doctor kolhouse and the cowboy a perspective by mark earnest from the university of colorado anschutz medical campus aurora</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>he’s a real cowboy i mean the bona fide real thing doctor kolhouse told them it was doctor earnest’s first day on the oncology ward as an intern and doctor kolhouse his attending was telling them about the patients they were about to meet this guy has probably spent more nights sleeping under the stars than under a roof i’m not sure he’d ever seen a doctor before he was diagnosed doctor kolhouse went on just imagine that you see a doctor for the first time and he tells you you have cancer on your penis the cancer was advanced when it was diagnosed and had since spread widely this chemo regimen was the cowboy's last option</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>it might buy him some more months doctor kolhouse explained but it would not be curative</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>toward the end of the week doctor kolhouse threw out a new detail about the cowboy did you know that he’s never been to the national western he asked he’s lived his whole life less than one hundred miles from here and he’s never been not once doctor kolhouse explained that for nearly a century denver had hosted the national western stock show for two weeks every january ranchers and cowboys from throughout the country would bring their prize livestock to denver for show and auction and to watch the world’s best rodeo riders compete</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>opening day was the next day and it was a really big deal the next morning the cowboy was fully dressed when doctor earnest knocked on his door wranglers boots western shirt what’s happening doctor earnest asked knowing he had several more days of chemo scheduled</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>i’m going to the stock show he said flatly he reached into his breast pocket fished out two items and held them out for doctor earnest to see one was a ticket to the national western stock show the other was a crisp one-hundred-dollar bill that doctor came in this morning and gave these to me he said there’d be a cab out front to take me over there i got to get moving</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>in our Images in clinical medicine a sixty-five-year-old man presented with a four-month history of a rash and a two-month history of diarrhea and weight loss examination showed a maculopapular eruption CT revealed osteosclerosis of the thoracic vertebral bodies a diagnosis of systemic mastocytosis a condition characterized by mast-cell infiltration of organs such as the bone marrow liver gastrointestinal tract and cortical bone was made</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>another image shows doxycycline-induced phototoxicity a fifteen-year-old girl presented with a two-week history of a painful blistering rash on both hands one week before the onset of symptoms she had started oral doxycycline therapy to treat acne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>read more from our issue at NEJM dot org let us know what you think about our podcast any comments or suggestions may be sent to audio at NEJM dot org thank you for listening</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Talk" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

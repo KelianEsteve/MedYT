@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-28T21:05:39+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/cc16fe6e-54e5-412e-a509-aa3dc630c89f.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./cc16fe6e-54e5-412e-a509-aa3dc630c89f.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:be20bc8f-3e68-47d2-a720-9a2bd1aca9a0</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">112</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="17900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="34200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="50400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="74200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="74600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="81500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="82000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="103700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="109000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="109800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="110900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="111500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="115900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="120600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="124900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="125400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="155400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="155800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="156800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="157200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="162800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="167450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="183900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="184600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="204600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="204700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="231400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="232000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="238700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="239300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="261100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="261300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="276500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="277200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="278200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="278700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="283800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="288400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="299500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="300000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="303200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="303800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="320300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="320800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="348200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="349100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="350200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="350700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="357800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="364100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="387500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="388100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="400300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="400800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="401800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="402300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="405900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="410900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="413200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="413800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="432900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="433600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="444100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="444800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="445800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="446600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="450600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="454900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="481200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="481900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="482800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="483400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="487600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="494100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="518000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="518400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="537540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="537760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="564100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="564700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="592340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="592580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="620400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="621200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="622300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="622900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="630600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="635200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="670900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="671200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="687200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="688100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="689100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="690000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="693200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="699200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="724000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="724600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="737400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="738200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="739200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="739800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="745100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="750400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="754700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="755400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="765000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="765600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="766500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="767000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="771400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="777700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="788400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="789000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="792200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="792800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="794900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="795400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="803400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="804000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="831060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="831300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="847900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="848700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="849600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="850200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="853500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="857500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="869100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="869500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="874400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="874800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="886500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="887200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="916400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="916800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="923500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="924100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="925100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="925700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="929100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="934200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="940700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="941300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="953000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="953600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="963600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="964300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="968400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="969000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="993700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="994100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="998500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="999100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="1015400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="1015800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="1022900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="1023400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="1037500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="1038000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1044400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1045500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1046500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1047200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1051200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1057000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1073000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1073500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1086100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1086600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1094400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1094900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1100100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1100600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1114000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1114800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1115800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1116300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1119500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="1124220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="1151590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="1151770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="1168400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="1169000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="1171900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="1172400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="1176200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="1181300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="1190800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="1191400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="1195200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="1195700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="1211000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="1211500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1222300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1222900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1235400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1236300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1261400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1261800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="1264400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="1265800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="1290600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="1296500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="1306900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="1307300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="1323000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="1323600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="1331200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="1331600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="1338900"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>a word from our sponsors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>at radiology partners we are redefining the world of radiology</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>through our physician-led approach we’ve built a culture where radiologists thrive powered by state-of-the-art clinical resources and cutting-edge technology we’re transforming radiology</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>join our nationwide network of radiologists and take control of your career with flexible and remote opportunities across all radiology fields we are the practice you are looking for visit joinRP dot com today to learn more</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>the radiology review is pleased to offer the second edition of the board exam study guide episodes one through one thirty-one available for purchase as a book on amazon or as a digital copy for kindle get your copy today</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>welcome to the radiology review podcast with your host doctor matt covington a board-certified radiologist for additional content please follow the radiology review on social media such as X or instagram at radrevpodcast send emails to the radiology review at gmail dot com or visit the website theradiologyreview dot com</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>welcome back to the radiology review podcast on this episode i will be discussing small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>as with other episodes a free downloadable study guide will be available at theradiologyreview dot com under the study guides section of the website and while you are there go ahead and also check out the discount-code section where i frequently have discount codes available on radiology educational resources that may be of interest to many of you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>without further ado let’s get into the questions and answers for this episode</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>first question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>what are classic plain-film findings of small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>on radiographs look for distended loops of small bowel with air-fluid levels</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>note that small bowel loops can be identified as they have valvulae conniventes sometimes termed plicae circulares which are thin mucosal folds which span the entire bowel loop whereas colonic loops have haustral folds that are thicker and do not cross the width of the colon small bowel loops are typically also more central in the abdomen and colonic loops are typically more peripherally located</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>what are basic characteristics of a mild versus a more severe small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>classic imaging findings of small bowel obstruction typically include bowel dilatation and a transition point from distended to collapsed bowel distal to the transition point an obstructing lesion at the transition point may or may not be seen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>mild small bowel obstructions tend to be partial or incomplete meaning bowel contents can pass beyond the site of obstruction vascularity will not be compromised in a mild small bowel obstruction more severe small bowel obstructions tend to be high-grade with complete or near-complete obstruction of bowel contents</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>these have a higher risk of vascular compromise with associated bowel ischemia and possible bowel infarction and or perforation as such one must look for evidence of pneumoperitoneum to indicate perforation and signs of strangulation and or bowel ischemia as signs of complication with severe bowel obstructions including entities such as pneumatosis intestinalis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>clinically a mild bowel obstruction may have transient abdominal pain decreased bowel movements and emesis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>severe small bowel obstructions may have a sudden severe onset of pain and in cases of vascular compromise a rapid onset of shock emesis may not always be present with ischemic bowel due to acute vascular compromise as pain may precede bowel dilatation and backup of enteric contents which leads to vomiting</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>vomiting initially is mostly of gastric contents with a small bowel obstruction but if progresses one would start vomiting bile and then feculent material with more severe unresolved small bowel obstructions</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>what is the so-called three-six-nine rule of the bowel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>the three-six-nine rule is a generalization of normal bowel caliber in centimeters as follows small bowel less than three centimeters is normal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>large bowel less than six centimeters is normal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>some add the appendix under the six as well meaning that the normal appendix is less than six millimeters not centimeters and then nine for the normal cecum being less than nine centimeters in maximal width</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>note that some advocate for slightly different measurements such as two point five centimeters for the small bowel to increase sensitivity for detection of small bowel obstruction but the three-six-nine rule is a general rule-of-thumb mnemonic that is easy to remember also note that this rule is not specific for small bowel obstruction but rather bowel distension which can result from entities like obstruction or ileus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>what are imaging findings that can help distinguish between small bowel obstruction and ileus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ileus classically shows gaseous distension of the small and large bowel diffusely but can also be more focal involving a so-called sentinel loop if present a sentinel loop is near a focal inflammatory process such as an inflamed gallbladder or pancreas causing short-segment adynamic ileus of the adjacent small bowel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>small bowel obstruction classically shows a transition point between dilated small bowel loops proximally and collapsed small bowel loops distally and should not have distension of the colon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>what is the most common cause of a small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>the answer here is adhesions</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>the most common cause of a small bowel obstruction is adhesions and most of these are related to prior abdominal or pelvic surgery note that adhesions can be occult on imaging so in many cases adhesions as the etiology of small bowel obstruction is made by excluding other causes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>secondary signs of adhesions include tethering of bowel nondependently to the peritoneum as well as abrupt angulation of an obstructed bowel loop</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>what are some classic causes of a closed-loop bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>like small bowel obstructions in general adhesions are the most common cause of a closed-loop bowel obstruction as well other causes of a closed-loop small bowel obstruction include bowel hernias which can be internal and sometimes very challenging to diagnose as well as external hernias such as an inguinal or ventral hernia as well as with a small bowel volvulus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>what are imaging features of a closed-loop small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>closed-loop small bowel obstructions occur when the same bowel loop is obstructed twice at a nearby or often even the same point a closed-loop obstruction classically presents as a dilated small bowel loop with narrowing and obstruction at two nearby or adjacent points with a transition point proximally and another transition point distally</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>dilated mesenteric vessels pointing toward the site of closed-loop obstruction transition points is sometimes present because the bowel loop is obstructed both proximally and distally it has no route of potential decompression if complete and this can be a very precarious situation for the patient</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>the clinical significance of a closed-loop obstruction is a higher rate of vascular compromise with associated bowel ischemia and possible bowel infarction due to strangulation of vasculature as well as compromised perfusion due to distension causing venous compromise and congestion due to increased intraluminal pressures combined with necrosis and subsequent bowel perforation if not resolved</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>CT findings supporting possible ischemia include adjacent vascular engorgement ascites and abnormally decreased enhancement of the affected bowel pneumatosis intestinalis is a sign of potentially infarcted bowel the most classic imaging finding confirming potential closed-loop obstruction is however to identify two areas of occlusion along a small bowel loop</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>secondary signs can include asymmetric mesenteric edema about the obstructed bowel loop stretched or angulated mesenteric vessels a C- or U-shaped dilated bowel loop or loops and a whirl sign from rotation of bowel loops and mesenteric vessels that is a lot of information go ahead and listen to that again or if helpful download the free study guide and read this in written form</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>true or false roux-en-y gastric bypass can be a cause of closed-loop bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>the answer here is true roux-en-y gastric bypass creates a rent in the mesentery which can result in bowel obstruction including closed-loop obstructions additionally an afferent-limb obstruction that is afferent with an a A F F E R E N T can occur after roux-en-y bypass wherein the pancreaticobiliary limb is obstructed which is closed-loop because this is a blind-ending loop with the remnant stomach at the other end which does not have outflow</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>clinically this would present as a bowel obstruction with no improvement following nasogastric-tube placement and attempted decompression as the obstructed portion is the pancreaticobiliary limb and not the alimentary limb</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>what are potential signs of small bowel ischemia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>pneumatosis intestinalis where air is seen in the bowel wall as well as portal venous gas in which intrahepatic gas is seen near the periphery of the liver are likely the most classic imaging findings additionally hemorrhage manifesting as increased attenuation of the thickened bowel wall and or intraluminal bowel contents or hemorrhage within the mesentery may be noted</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>to prevent bowel ischemia and subsequent infarction early surgical intervention should be pursued of course remember serum lactate elevation as a potential laboratory measure of ischemia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>gas seen in the bowel wall in the neonate is classic for which entity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>the answer i’m looking for here is necrotizing enterocolitis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>the risk of necrotizing enterocolitis is elevated in premature neonates and those with congenital heart disease or other neonatal insults</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>what are some potential causes of so-called benign pneumatosis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>benign pneumatosis can be caused by pulmonary disease such as COPD scleroderma lupus and other types of collagen vascular disease</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>various causes of intestinal inflammation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>recent endoscopy procedures</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>g-tube placement or bowel surgery as well as certain medications including chemotherapy and steroids</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>benign pneumatosis classically creates air-containing circumferential rings in the bowel wall and would lack additional findings suspicious for ischemia to include an absence of bowel-wall thickening mesenteric or intraperitoneal fluid or stranding or evidence of vascular occlusion including abnormal often decreased bowel-wall enhancement and no associated bowel or mesenteric hemorrhage</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>clinical features are key to help differentiate benign and incidental pneumatosis which is often clinically asymptomatic from pneumatosis concerning for bowel ischemia in which potentially severe patient compromise may be present</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>what is the small bowel feces sign</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>the small bowel feces sign is when one identifies the appearance of feces with air bubbles in the small bowel whereas feces is typically only seen in the large bowel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>potentially resulting from delayed small bowel intestinal transit</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>the small bowel feces sign when seen with other findings of small bowel obstruction like distended bowel proximally and collapsed bowel distally supports the diagnosis of small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>however while this finding increases the likelihood of small bowel obstruction when other imaging findings of obstruction are also seen the small bowel feces sign can also be seen in settings outside of small bowel obstruction note that the small bowel feces sign most commonly forms in low-grade obstructions rather than acute high-grade obstruction is most common in the distal small bowel and is frequently seen just proximal to the site of obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>therefore when you see the small bowel feces sign carefully look for a nearby transition point</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>what are classic imaging findings of gallstone ileus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>gallstone ileus is a commonly tested concept so make sure you are prepared to recognize this on a board exam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>gallstone ileus occurs when chronic cholecystitis creates a fistula from the chronic inflammation between the gallbladder and small bowel allowing one or more gallstones to enter the small bowel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>the gallstones can subsequently become impacted at the ileocecal valve causing small bowel obstruction and not ileus the name is a misnomer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>note that gallstone ileus is rare but is more common in the elderly</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>the tricky thing with gallstone ileus is they typically don’t make it clear that the patient has had chronic cholecystitis and you are expected to consider this possibility when seeing a calcified structure causing small bowel obstruction at the level of the ileocecal valve they can test this on a radiograph or CT showing the so-called rigler triad R I G L E R of small bowel obstruction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>right lower quadrant calcification and biliary-tree gas</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>however in clinical practice most gallstones do not calcify so one must also be on the lookout for a noncalcified gallstone about the ileocecal valve on CT when biliary gas and bowel obstruction are both present</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>especially if oral contrast is given the fistula between gallbladder and adjacent bowel may be identifiable</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>one final note is that bouveret syndrome which is B O U V E R E T is a variant of gallstone ileus in which the gallstone erodes into and obstructs the duodenal bulb</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>biliary gas duodenal obstruction and an obstructing stone are classically seen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>what are other potential causes of small bowel obstruction to consider</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>besides adhesions which is the most common cause and gallstone ileus which is an infrequent cause of small bowel obstruction other causes include external and internal hernias with resultant obstruction benign or malignant obstructing masses</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>small bowel volvulus crohn’s disease with terminal ileitis causing fibrotic strictures crohn’s and other acute inflammatory processes and small bowel intussusception</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>note that hernias causing bowel obstruction can include inguinal umbilical incisional and spigelian hernias</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>internal hernias can be congenital or surgically created openings within the mesentery</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>small bowel intussusception is more common in the pediatric age group as a cause of obstruction but can also occur in adults including with a meckel’s diverticulum or after surgery such as gastric bypass</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>next question</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>what are classic causes of small bowel volvulus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>small bowel volvulus is more common in the pediatric age group and midgut volvulus is classic within the first month of life secondary to malrotation wherein no rotation or incomplete rotation of the bowel around the superior mesenteric artery axis occurs during embryogenesis which may lead to acute volvulus of the midgut small bowel volvulus in adults can be secondary to malignancy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>pregnancy adhesions within the peritoneum or a small bowel diverticulum small bowel volvulus in adults can also be secondary to malignancy pregnancy adhesions within the peritoneum or a small bowel diverticulum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>last and final question for this episode</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>what are classic imaging findings of small bowel volvulus</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>on radiographs look for findings of proximal small bowel obstruction with dilated small bowel loops and air-fluid levels within the proximal small bowel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>small bowel volvulus has a strong risk for small bowel ischemia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>on CT a so-called whirl sign W H I R L whirl sign suggests volvulus of the bowel with swirling of mesenteric vessels mesenteric edema and swirling or twisting of obstructed small bowel loops</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>however the whirl sign can also be seen without small bowel volvulus so this is a sensitive but not a specific sign for this entity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>with midgut volvulus one can often see the whirl sign wherein the superior mesenteric vein and loops of small bowel are seen swirling around the superior mesenteric artery</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>that is a lot of information on small bowel obstruction coming your way i hope this is helpful for many of you feel free to download the free study guide at theradiologyreview dot com and while you’re there take a look around at other educational resources that exist and as always keep up the good work and study hard remember you have to study really hard to succeed on radiology board exams so prepare to succeed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>i will catch you on the next episode</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>content of this podcast is provided for informal educational purposes only for radiology trainees and radiologists medical practitioners please make your own independent assessment before suggesting a diagnosis or recommending any course of treatment this podcast should not be used for self-diagnosis or self-treatment and is not a substitute for independent professional medical care please consult your own physician regarding any diagnosis image interpretation or course of treatment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>radiology residents get ready for the ABR core exam with boardvitals access over one thousand three hundred high-yield questions detailed explanations and adaptive learning</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>study anytime with the mobile app customize by subject and track progress plus a one-hundred-percent pass guarantee start your free trial at boardvitals dot com and use code radreview for ten percent off radiology question banks</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>the radiology review is pleased to offer the second edition of the board exam study guide episodes one through one thirty-one</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112"
+                TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>available for purchase as a book on amazon or as a digital copy for kindle get your copy today</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

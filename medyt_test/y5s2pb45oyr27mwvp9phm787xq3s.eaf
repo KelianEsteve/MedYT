@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-27T13:47:10+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/finish/y5s2pb45oyr27mwvp9phm787xq3s.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./y5s2pb45oyr27mwvp9phm787xq3s.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:58e3de7e-fbe6-4b13-818b-0be52d6cc7c6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">25</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="19200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="28301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="33331"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="33440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="37330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="38110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="42290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="43170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="65070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="80640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="80820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="82610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="83220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="133000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="133400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="135160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="135840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="136830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="137300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="183970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="184550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="216100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="216450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="224870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="225730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="240120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="240920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="247540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="247880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="278890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="279010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="285960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="286160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="322280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="322600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="332340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="332810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="362000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="362160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="366450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="366710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="396060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="396470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="422630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="423020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="450960"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Talk" TIER_ID="Ms. Heidhausen">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>this is katerina heidhausen executive editor of harrison's principles of internal medicine harrison's podclass is brought to you by mcgraw hill's accessmedicine the online medical resource that delivers the latest content from the best minds in medicine and now on to the episode</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Talk" TIER_ID="Dr. Handy">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>hi everyone welcome back to harrison's podclass we're your co-hosts i'm doctor cathy handy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>today's episode is about a thirty five year old with burning abdominal pain</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>sounds like today's topic is GI obviously his doctor was concerned about peptic ulcer disease and obtaining the test for H pylori was the right thing to do so we now know our patient is colonized with H pylori and why don't we start with some epidemiology</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>helicobacter pylori colonizes the stomach in about fifty per cent of the world's human population essentially for life unless eradicated by antibiotic treatment however the prevalence varies widely around the world the prevalence of H pylori among adults in the US europe and oceania is less than thirty per cent and that's in contrast to prevalence rates over sixty per cent in many parts of africa south america and west asia it's likely acquired in childhood and that explains why the main risk factors for infection are markers of crowding and poor resources in childhood longitudinal studies have shown declining prevalences over the past half-century concomitant with socioeconomic development and widespread antibacterial treatments there is hope that with the present rate of intervention the organism will ultimately be eliminated from the united states</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>well not yet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>okay i'm going to go a little out of order here but let's start with the correct answer which is A H pylori infection is virtually always associated with a chronic active gastritis but only 10 to 15% of infected individuals develop frank peptic ulceration initial studies when H pylori was discovered in the 1980s suggested that over 90% of all duodenal ulcers were associated with H pylori but H pylori is present in only 30 to 60% of individuals with gastric ulcers and 50 to 70% of patients with duodenal ulcers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>H pylori colonization or infection is associated with both gastric adenocarcinoma and gastric lymphoma but overall the prevalence is much lower less than 10% but that risk is another reason why it's important to treat H pylori once you discover it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>well the other major cause of gastric ulcers are nonsteroidal anti-inflammatory drugs or NSAIDs worldwide about 70% of duodenal ulcers and about 50% of gastric ulcers are related to H pylori colonization however in particular the proportion of gastric ulcers caused by aspirin and NSAIDs is increasing I already mentioned that the prevalence of H pylori colonization is decreasing in western countries in many of these countries including the US these drugs have overtaken H pylori as the most common cause of gastric ulceration</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>the most clear-cut indications for treatment are duodenal or gastric ulceration or low-grade gastric b-cell MALT lymphoma whether or not the ulcers are currently active H pylori should be eradicated in patients with documented ulcer disease to prevent relapse guidelines have recommended H pylori treatment for colonized patients with functional dyspepsia and for individuals with a strong family history of gastric cancer treatment to eradicate H pylori in the hope of reducing cancer risk is reasonable but it's really of unproven value it slightly reduces the future cancer incidents but there's no evidence it reduces all-cause mortality</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>yeah that's because oral vancomycin is not active against H pylori remember it's used to treat C diff for treatment of H pylori the current regimens consist of a proton pump inhibitor and two or three antimicrobial agents given for 10 to 14 days the optimal regimens vary in different parts of the world and it depends on the known rates of primary antibiotic resistance in the strains that are common in that particular location one popular regimen is clarithromycin and metronidazole for 14 days</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>approximately 15 to 25% of patients treated with first-line therapy may still remain infected with the organism many recommend confirmation of eradication one month after treatment particularly if symptoms persist that's best accomplished with a non-invasive test such as the urea breath test or a stool antigen test serologies are useful initially for detecting H pylori colonization but they're not useful as a test of eradication because the antibodies do take well over a month to decline</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and you can find this question and other questions like it in the harrison's self-review book and online and for more information you can check out two different chapters in Harrison's the chapter on H pylori and the chapter on peptic ulcer disease visit the show notes for links to helpful resources including related chapters and review questions from Harrison's available exclusively on accessmedicine if you enjoyed this episode please leave us a review so we can reach more listeners just like you thanks so much for listening</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Talk" TIER_ID="Dr. Wiener">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>and i'm doctor charlie wiener and we're joining you from the johns hopkins school of medicine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>cathy today's patient is a thirty five year old man who has had one month of burning epigastric pain that is relieved by meals and over-the-counter acid suppression medications he told his primary care physician that he did not want any invasive procedures such as an endoscopy his family history is positive for gastric adenocarcinoma a stool test for H pylori came back positive</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>all right tell me about H pylori</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>that may make this episode obsolete</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>okay well the question asks which of the following statements regarding H pylori is true option A is he likely has histologic chronic gastritis option B he should receive a proton pump inhibitor plus oral vancomycin for two weeks to eradicate the colonization option C he should receive a serologic test for H pylori antibodies four weeks after treatment to confirm eradication of the organism option D is in the united states over 80% of gastric ulcers are related to H pylori colonization and option E is patients colonized with H pylori have a greater than 50% lifetime risk of developing peptic ulcer disease gastric adenocarcinoma or gastric lymphoma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>okay so we know that H pylori is associated with peptic ulcer disease but what about gastric adenocarcinoma and gastric lymphoma they're mentioned in option E</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>okay what about option D which is also false what percentage of gastric ulcers are associated with H pylori in the US</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>well I guess we're going to keep our gastroenterology colleagues in business let's finish up with therapy and follow up who should be treated</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>okay so it sounds like it's reasonable to treat our patient given his symptoms and his family history what regimen one of the false answers mentioned oral vancomycin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>and finally what about confirming eradication of the H pylori after treatment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>great to summarize today's teaching points include that H pylori remains a problem in the developed world although its prevalence seems to be decreasing it's associated with a variety of GI disorders most notably peptic ulcer disease gastric adenocarcinoma and gastric lymphoma and less powerfully with dyspepsia treatment when indicated should be individualized based on patient preferences and local resistance patterns</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Talk" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

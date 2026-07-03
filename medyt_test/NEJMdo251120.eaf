@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-28T13:43:19+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/NEJMdo251120.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./NEJMdo251120.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ae45b526-a074-462d-8832-a06435667972</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">80</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="40400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="44200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="45300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="61100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="61700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="66000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="67800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="80800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="81800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="107600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="107800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="133400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="133500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="142500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="142900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="165300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="166800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="190200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="190400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="205200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="205700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="231500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="231520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="239800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="241800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="252600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="253300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="279900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="280300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="309200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="309400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="317700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="319700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="333700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="334700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="353500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="353800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="383000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="383400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="412500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="414100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="446420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="446490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="471530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="471730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="493000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="493300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="508000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="509900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="521200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="522300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="531900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="532300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="547800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="548100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="572600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="572900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="596000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="596400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="602500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="604500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="615600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="616600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="645100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="645400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="672100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="672300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="675400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="675700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="688700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="690700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="695700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="696100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="701400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="702000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="731850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="731950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="751800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="752300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="770400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="770700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="799500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="799800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="805500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="807500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="821100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="822200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="848400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="848600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="871050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="871220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="879800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="881800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="894400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="895600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="923340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="923390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="931200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="931700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="955400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="955700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="976300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="976700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="991500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="991800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1008500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1010400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1022100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1022990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1050340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1050470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1063900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1064300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1092700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1094700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1112900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1113600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1137700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1154270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1154370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1184890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1184960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1210000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1210300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1221500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1223600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1231460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1232420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1256750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1256820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1286660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1286730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1294300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1294700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1308200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1308700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1327800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1328200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1343200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1345200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1375700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1376260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1392700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="1393100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="1422340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="1422600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="1431100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="1431500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="1433100"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>welcome to NEJM this week</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>i'm doctor michael bierer</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>in this episode we look at new research on potassium optimization in patients with defibrillators</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>reducing antihypertensive therapy in nursing homes an mRNA influenza vaccine and belzutifan for rare neuroendocrine tumors we review long-QT syndrome and present a case of abnormal behavior and seizures in a young man we also explore perspectives on primary care reform tobacco cessation in HIV and tuberculosis care corporate control in health care</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>and the simple power of compassion with ice cream</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>in our latest clinical decisions a man was hospitalized for uncomplicated diverticulitis and was found to have high blood pressure one essay supports watchful waiting and the other essay recommends impatient treatment of the high blood pressure</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>what would you choose visit NEJM dot org to vote</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>increasing the potassium level in patience at high risk for ventricular arrhythmias by christian jons from rigshospitalet university of copenhagen denmark and coauthors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>hypokalemia and even low normal plasma potassium levels increase the risk of ventricular arrhythmias among patients with cardiovascular disease an assessment of a strategy of actively increasing plasma potassium levels to the high normal range has been needed this trial in denmark enrolled twelve hundred participants at high risk for ventricular arrhythmias</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>defined as those with an implantable cardioverter defibrillator ICD and with a baseline plasma potassium level of four point three millimoles per liter or lower participants were randomly assigned to a treatment regimen aimed at increasing the plasma potassium level to a high normal level four point five to five millimoles per liter by means of potassium supplementation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>a mineralocorticoid-receptor antagonist or both plus dietary guidance and standard care or to standard care only</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>among these participants a treatment-induced increase in plasma potassium levels led to a significantly lower risk of appropriate ICD therapy that is shock therapy or antitachycardia pacing unplanned hospitalization for arrhythmia or heart failure or death from any cause as compared with standard care</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>neal chatterjee from the university of washington seattle writes in an editorial that a long-recognized and potentially modifiable risk factor for ventricular arrhythmias is hypokalemia in the trial by jons and coauthors targeting a high-normal potassium level led to a significantly lower risk of clinically meaningful arrhythmias and death than standard care</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>these findings support aiming to increase the potassium to a high-normal level in persons with ICDs at high risk for ventricular arrhythmia but the safety of such intervention in a real-world context should be viewed with caution</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>strategies to maintain a high-normal potassium level deserve a place in the toolbox to prevent ventricular arrhythmias in high-risk patients with ICDs in clinical practice this means close attention to potassium levels awareness of precipitants of hypokalemia and consideration of potassium-raising measures in such patients in an era of increasing diagnostic and therapeutic complexity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>this trial shows that seemingly small electrolyte adjustments can have a big clinical benefit in the right patients</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>reduction of antihypertensive treatment in nursing home residents by athanase benetos from the universite de lorraine nancy france and coauthors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>older patients with hypertension are at high risk for cardiovascular complications owing to this increased risk such patients may derive substantial benefits from antihypertensive drugs however randomized clinical trials have generally excluded patients with clinically significant frailty who are more likely than other patients of similar ages to have adverse effects from antihypertensive drugs</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>in this trial conducted in france one thousand forty-eight nursing home residents eighty years of age or older who were receiving more than one antihypertensive drug and had a systolic blood pressure below one hundred thirty millimeters of mercury were randomly assigned to a protocol-driven strategy of progressive reduction of antihypertensive treatment step-down group or to receive usual care patients were to be followed for up to four years</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>the antihypertensive-treatment step-down strategy did not lead to lower all-cause mortality than usual care</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>efficacy immunogenicity and safety of a modified mRNA influenza vaccine by david fitzpatrick from the east-west medical research institute honolulu and coauthors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>influenza remains a major health burden despite the use of licensed vaccines nucleoside-modified messenger RNA modRNA influenza vaccines have shown promising immunogenicity against influenza and an acceptable safety profile in a phase one–two trial</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>in this phase three trial conducted in the united states south africa and the philippines eighteen thousand four hundred seventy-six healthy adults between the ages of eighteen and sixty-four years were randomly assigned to receive either a quadrivalent modRNA influenza vaccine or a licensed inactivated quadrivalent influenza vaccine control group during the two thousand twenty-two to two thousand twenty-three influenza season</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>relative efficacy of the modRNA vaccine was thirty-four point five percent greater than the control vaccine against influenza-like illness a finding that met the criteria for both noninferiority and superiority the modRNA vaccine elicited greater immune responses to A H3N2 and A H1N1 strains but was associated with more reactogenicity events</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>hana el sahly and robert atmar from baylor college of medicine houston write that annual influenza vaccination campaigns are a trusted tool in efforts to decrease the morbidity and mortality of influenza in the united states with an effectiveness of thirty-six to fifty-four percent at preventing influenza-related outpatient medical visits and forty-one to fifty-five percent at preventing influenza-related hospitalizations in adults during the most recent two thousand twenty fourth two thousand twenty five </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>short of developing a universal influenza vaccine the development of seasonal influenza vaccines with improved effectiveness would constitute an important public health advance in the trial by fitzpatrick and coauthors the quadrivalent modRNA vaccine was more efficacious than the control vaccine at preventing virologically confirmed influenza-like illness</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>the modRNA vaccine elicited better antibody responses against influenza A but lower responses against influenza B viruses no major safety concerns were identified though the percentages of modRNA recipients who reported chills myalgia or fever were three times as high as those of recipients of the control vaccine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>the enhanced modRNA vaccine protection against influenza A viruses in young adults appears to be a step forward but much remains to be achieved before enlisting mRNA vaccines in the annual fight against influenza</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>belzutifan for advanced pheochromocytoma or paraganglioma by camilo jimenez from the University of texas MD anderson cancer center houston and coauthors</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>pheochromocytoma and paraganglioma are neoplasms originating in the adrenal medulla and extra-adrenal paraganglia respectively</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>patients with pheochromocytoma or paraganglioma face substantial health challenges associated with tumor burden cardiovascular complications related to hypertension and gastrointestinal symptoms such as constipation due to catecholamine excess</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>though malignancy is rare in such tumors most cases of metastatic pheochromocytoma and paraganglioma are driven by dysregulation of the hypoxia-inducible factor 2 alpha HIF-2 alpha pathway belzutifan is an HIF-2 alpha inhibitor that may provide antitumor activity in patients with these neoplasms</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>this phase two single-group trial involved seventy-two participants with locally advanced or metastatic pheochromocytoma or paraganglioma that was not amenable to surgery or curative-intent treatment participants received daily oral belzutifan until the occurrence of progression unacceptable toxic effects or withdrawal from the trial</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>belzutifan showed antitumor activity with durable responses in these participants</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>long-QT syndrome a review article by peter schwartz and lia crotti from the istituto auxologico italiano IRCCS milan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>long-QT syndrome is a leading cause of sudden death in young persons with a prevalence exceeding one in two thousand it is characterized by prolongation of the QT interval aberrant T-wave morphologic features and a propensity toward life-threatening arrhythmias triggered mostly by adrenergic activation long-QT syndrome is caused by variants in genes encoding primarily for potassium-ion and sodium-ion channels</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>common genetic variants in modifier genes increase or decrease the arrhythmic risk linked to the disease-causing variants and can contribute to risk stratification the current therapies including treatment with beta-blockers left cardiac sympathetic denervation and mexiletine are extremely effective and limit the need for an implantable cardioverter-defibrillator to a small percentage of patients</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>genotype-specific management is important</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>gene therapy is promising but is not yet ready for clinical use arrhythmic risk and the approach to therapy need to be reassessed at yearly visits to allow optimization of therapy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>a twenty-seven-year-old man with abnormal behaviors confusion and seizure</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>a case record of the massachusetts general hospital by nadya k he and colleagues</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>a twenty-seven-year-old man with bipolar one disorder was admitted for abnormal behaviors and confusion that had developed over two months after he had stopped his psychiatric medications he appeared disoriented paranoid and spoke in nonsensical tangential statements at the time of admission the patient was taking no medications but had previously received prescriptions for lithium carbonate propranolol bupropion clonazepam buspirone and gabapentin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>during hospitalization he had a tonic-clonic seizure examination revealed tachycardia restlessness and an unsteady gait laboratory studies showed leukocytosis ketonuria and mild proteinuria findings on EEG MRI and cerebrospinal fluid analysis were normal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>multiple features of this patient’s case were consistent with a diagnosis of thyrotoxicosis including the duration of his illness the presence of maniform symptoms and cognitive impairment persistent sinus tachycardia and seizure a rare finding</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>thyroid testing revealed a thyrotropin level of less than zero point one milli-international units per liter a total thyroxine level of twenty-one point two micrograms per deciliter and a free thyroxine level of three point seven nanograms per deciliter consistent with thyrotoxicosis thyroid-stimulating antibodies were negative and radioactive iodine uptake was suppressed indicating hormone release rather than overproduction</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>the findings supported a diagnosis of subacute painless thyroiditis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>a new stage for seasoned actors food anaphylaxis and the cysteinyl leukotrienes a clinical implications of basic research article by joshua boyce from brigham and women’s hospital boston</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>food allergies affect approximately ten percent of children in the united states recent studies reveal a critical role for intestinally derived cysteinyl leukotrienes in triggering food-induced anaphylaxis these lipid mediators produced by mast cells and epithelial cells enhance allergen absorption through goblet-cell-associated antigen passages and promote mucosal mast-cell expansion</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>in mouse models disrupting leukotriene metabolism or signaling protected against anaphylaxis triggered by oral but not systemic exposure to allergens these findings underscore how local leukotriene activity in the gut influences systemic allergic responses although current leukotriene-targeting drugs have limitations</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>the research supports exploring broader inhibition strategies as preventive therapy for food allergy–related anaphylaxis</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>why have we chosen not to fix primary care the vicious cycle of medical hierarchy a medicine and society article by lisa rosenbaum a national correspondent for the journal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>just twenty-one percent of graduates of primary care residencies are practicing in outpatient settings three to five years after graduation recognizing that practicing primary care full time is essentially impossible many PCPs have significantly reduced their clinical sessions primary care receives less than five percent of health care resources despite accounting for about thirty-five percent of all US health care visits</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>the great mystery of primary care then isn’t how to make it better but why have we chosen not to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>primary care is at the bottom of the totem pole PCP salaries reflect this hierarchy and resource flow within institutions reinforces their status financial neglect begets further financial neglect it’s hardly intuitive that PCPs who must know enough to manage most undifferentiated illness should be valued the least</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>yet we are all acculturated into a belief system that elevates the specialist over the generalist and procedural over cognitive work though this hierarchy’s subjective nature makes its validity impossible to assess its entrenchment reflects an assumption that it’s predetermined and impossible to change</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>the relative value scale update committee RUC which updates physician reimbursement rates has thirty-two voting members only five of whom represent primary care fields while the rest represent specialties</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>the resource-based relative value scale created to narrow disparities has instead institutionalized them and the RUC’s inadequacies reflect a deeper value system that must be reconsidered if primary care is to survive</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>integration of tobacco-cessation interventions into tuberculosis and HIV care a perspective by jonathan shuter from albert einstein college of medicine new york</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>tobacco use tuberculosis and HIV are among the leading causes of death globally and the resulting syndemic has devastating effects especially in low- and middle-income countries among people with HIV research has found that tobacco use is responsible for more years of life lost than the virus itself integrating treatment for tobacco use into care for tuberculosis or HIV is not a new idea</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>but tobacco use continues to receive little attention in treatment guidelines there is a dose-response effect for tobacco treatment and behavioral therapy works better when it is paired with pharmacotherapy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>programs must be sensitive to stigma and delivered using nonjudgmental approaches health systems can take several steps to integrate tobacco treatment into tuberculosis and HIV care including training clinicians tracking use and promoting cessation through national policies clinicians and health care systems must meet patients where they are and be persistent in their efforts to help them stop using tobacco</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>regulating corporate control in health care oregon’s attempt to revive the CPOM doctrine a perspective by jane zhu from oregon health and science university portland and hayden rooke-ley from brown university school of public health providence rhode island</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>US health care organizations are increasingly being bought and controlled by profit-seeking entities a trend termed health care corporatization oregon’s senate bill nine fifty one signed into law in june twenty twenty-five addresses ownership structure directly targeting a loophole in laws that ban corporate ownership of medical practices</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>oregon’s law focuses on corporate management services organizations MSOs which enter into contracts with physician practices to provide nonclinical administrative and other services such as billing marketing and information technology services</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>the bill prohibits physicians with a financial interest in an MSO from owning a majority stake and requires that medical practices not MSOs retain de facto control over key decisions supporters believe corporate ownership has resulted in financial returns being prioritized over patient care while critics warn it could disadvantage independent practices and accelerate the absorption of independent practices into hospitals</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>moreover the law doesn’t apply to hospitals and other institutional facilities which routinely exert control over clinical decisions staffing and resource allocation drive price increases and reduce competition by means of vertical and horizontal consolidation therefore the law targets one form of corporate control while leaving another unchallenged</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>SB nine fifty one offers a promising model for regulating corporate ownership though its reach could be limited and it may distort the competitive landscape in health care</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>pistachio ice cream a perspective by biren kamdar from the university of california san diego la jolla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>what started as another week in the intensive care unit turned out to be a week all about ice cream it started with sallie a woman in her sixties admitted with shock and a painful sacral wound this hospitalization was part of her larger battle with end-stage lung cancer with diffuse metastases marbling her thoracic and lumbar vertebrae sallie was in intractable pain</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>but was more concerned about being evicted from her assisted living facility for requiring more assistance than they could provide for her her spinal metastases had rendered her nearly unable to walk sallie was sad she was trapped in a hopeless situation suddenly doctor kamdar’s desire to lift her spirits overrode pressing to-do-list items such as discussing her code status doctor kamdar asked the only question that seemed to make sense at the moment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>do you want some ice cream sitting up in excitement she broke into a smile and said yes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>after some ice cream sallie's voice grew stronger she acknowledged that her final days were upon her expressing a desire to spend those days pain free in a peaceful place staffed by compassionate care providers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>next was gustavo who was not in the mood to talk about his impending death again doctor kamdar asked the only question that seemed to make sense at the moment quiere helado gustavo was offered pistachio ice cream and died comfortably the next morning with family at his bedside</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>as patients brace for their final days the simple act of pulling up a chair connecting and offering ice cream can be all it takes to bring clarity to complexity and outline realistic goals</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>in our images in clinical medicine a seventy-five-year-old woman with a history of breast cancer treated with mastectomy of both breasts and adjuvant hormonal therapy presented with a one-year history of a rash on her chest a diagnosis of cutaneous metastases from breast carcinoma was made in patients with a history of breast cancer cutaneous metastases must be considered when a skin eruption resembling erysipelas or cellulitis occurs on the chest wall</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>in another image a twenty-six-year-old woman was referred to the pulmonary hypertension clinic with a six-month history of exertional dyspnea and hoarseness vocal-fold paralysis was seen on laryngoscopy shown in a video at NEJM dot org</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>a diagnosis of ortner’s syndrome owing to pulmonary hypertension was made ortner’s syndrome also known as cardiovocal syndrome occurs when the left recurrent laryngeal nerve is compressed between an enlarged cardiovascular structure in this case the pulmonary artery and the aortic arch hoarseness results from impaired innervation of the ipsilateral intrinsic muscles of the larynx read more from our issue at NEJM dot org</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>let us know what you think about our podcast any comments or suggestions may be sent to audio at NEJM dot org</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>thank you for listening</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

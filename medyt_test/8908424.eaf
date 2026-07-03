@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-06-28T23:11:36+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/rouvier/sandbox/heath_test/8908424.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./8908424.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9c17066e-5a06-4fe4-926c-c21f98afc93a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">315</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="17800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="33500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="48900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="57900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="58300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="59200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="59700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="64700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="78600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="79050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="84600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="85000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="92000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="94400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="95000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="102700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="103400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="104400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="104900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="108900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="109400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="112500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="113100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="113500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="114100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="117700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="119400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="126400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="127100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="143300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="149900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="150600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="151900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="152600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="170100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="170600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="193900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="194500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="208800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="209200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="210900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="211500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="212690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="214200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="217900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="219200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="229800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="230300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="242900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="243600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="250500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="251900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="265900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="267100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="269500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="269900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="272700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="273300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="283600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="284110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="288000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="288700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="304500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="304750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="313500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="314000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="314400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="314800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="341800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="342800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="356100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="357300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="362200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="362800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="367100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="367800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="377300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="378300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="391800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="392300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="396350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="396630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="397030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="397800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="420200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="424700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="429100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="429150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="444020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="445400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="450600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="451300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="456600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="457100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="471400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="472100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="472400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="473000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="501900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="502100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="517600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="520700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="529600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="530000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="531900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="532490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="543480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="543550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="569000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="570700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="600200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="600900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="614500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="632700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="650600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="651100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="663900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="664500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="671900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="672400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="679000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="680000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="691930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="692030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="730300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="730770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="746560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="746667"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="750630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="754800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="757700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="758600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="762100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="762500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="777200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="777700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="790700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="791500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="799430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="799550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="811440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="811700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="822030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="823500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="844600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="845000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="868500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="869600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="894760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="894970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="902690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="903200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="912900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="913500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="934010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="934110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="948100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="949000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="955700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="956400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="972900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="973300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="981600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="983100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1010700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1011300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1021800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1022800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1041900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1054800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1055700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1056200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1076300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1076900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1078800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1079500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1082300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1084200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1095900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1096500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1121500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1122500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1133590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="1134180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="1137880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="1139100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="1155200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="1156700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="1181900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="1182200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="1187000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="1188300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="1205900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="1206300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="1208300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="1208700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="1211600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="1212100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1217300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1217700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1229200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1229600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1241800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1242230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="1245500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="1246100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="1247500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="1247900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="1250400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="1251400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="1252500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="1253900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="1264300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="1265000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="1292400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="1293200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="1305400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="1306700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="1322800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="1324200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="1340300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="1344200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="1350800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="1351700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="1388200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="1388600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="1403600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="1405100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="1409000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="1409800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="1414300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="1414900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="1421900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="1422200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="1425200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="1425900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="1429100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="1429700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="1433800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="1434500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="1440200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="1440900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="1444000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="1444700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="1448700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="1451200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="1465700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="1466400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="1467100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="1467500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="1488700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="1489400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="1496600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="1497200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="1500500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="1501600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="1509800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts263" TIME_VALUE="1510400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts264" TIME_VALUE="1513800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts265" TIME_VALUE="1514300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts266" TIME_VALUE="1518100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts267" TIME_VALUE="1518600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts268" TIME_VALUE="1520100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts269" TIME_VALUE="1520600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts270" TIME_VALUE="1526500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts271" TIME_VALUE="1527000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts272" TIME_VALUE="1528100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts273" TIME_VALUE="1532900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts274" TIME_VALUE="1536700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts275" TIME_VALUE="1537200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts276" TIME_VALUE="1541500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts277" TIME_VALUE="1541900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts278" TIME_VALUE="1544800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts279" TIME_VALUE="1545600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts280" TIME_VALUE="1546300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts281" TIME_VALUE="1546700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts282" TIME_VALUE="1554600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts283" TIME_VALUE="1555200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts284" TIME_VALUE="1560800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts285" TIME_VALUE="1561200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts286" TIME_VALUE="1566700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts287" TIME_VALUE="1567500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts288" TIME_VALUE="1577700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts289" TIME_VALUE="1581400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts290" TIME_VALUE="1589000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts291" TIME_VALUE="1618500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts292" TIME_VALUE="1629000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts293" TIME_VALUE="1629400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts294" TIME_VALUE="1633900"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>behind the knife the surgery podcast relevant and engaging content designed to help you dominate the day</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>this episode of BIG t trauma is sponsored by teleflex a global provider of medical devices that address the time-critical challenges of achieving vascular access and bleeding control not all products are available in all regions to learn more visit teleflex dot com</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>you’ve got a single ballistic wound to the thigh with a retained bullet there’s no bleeding no fracture and no deficits on exam you tell the patient</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>you’re definitely lucky</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>discharge them home advise them to follow up as needed and you rush back to your case in the OR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>as trauma surgeons this is definitely a regular occurrence the patient was in fact lucky but it doesn’t change the fact that they still have a bullet in them that bullet can cause pain psychological distress and in rare instances serious lead poisoning so welcome back</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>to behind the knife i’m patrick georgoff and today we’re tackling a topic every trauma surgeon encounters but almost none of us</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>are formally taught and that’s retained ballistic fragments so we’ll cover the epidemiology when to remove and when to leave them alone</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>how to handle bullets as forensic evidence</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>the underappreciated psychological toll on our patients and the lead toxicity that can show up decades later so joining me are doctor teddy puzio</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>from UT houston</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>doctor madhu subramanian a colleague of mine at duke and a gun-violence survivor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>and our beloved duke ACS fellow doctor tyler simpson</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>tyler</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a170"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>set the stage for us why should trauma providers care about this topic</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>thank you georgoff so as we all know firearm injuries are still a significant public-health concern in the united states</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>and the CDC estimates that about one hundred sixty-one thousand nonfatal firearm injuries occur annually in the US and in fact one study found that about seventy-six percent of patients with nonfatal GSWS had retained ballistic fragments</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>yeah that leaves a lot of trauma survivors walking around with retained fragments that’s why that’s kind of the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>crux of this episode</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>yeah you know i don’t want to dive too deep into my own personal life but i made the choice when i got shot to have my bullet removed because i didn’t want to live with the complications associated with having a retained bullet the more we say this the more that we learn that there are consequences of retained bullets that don’t necessarily manifest immediately</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>often the clinical impacts and even the psychological impacts associated with these manifest months or years later this is especially true when people develop lead toxicity the crazy thing is that these patients could present to a different provider than us with symptoms that seem unrelated to the GSW but are actually due to the lead toxicity or other manifestations of their bullet injury</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>yeah that’s exactly why we’re talking about that in this episode so hopefully we can give our listeners kind of a mental framework for managing these retained ballistic fragments both during their index hospitalization and then through long-term follow-up stuff that we don’t</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>really as we said before we don’t really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>teach or think about</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>tyler you mentioned the no-removal rate let’s dive deeper into the epidemiology</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>sure so a few more numbers another recent study looked at about two hundred and ninety-eight patients all with nonfatal GSWS and about three-fourths of them had at least one retained bullet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>and then of those another three-fourths had absolutely no attempt at bullet removal during their index admission and in fact only ten percent of all- all-comers had complete fragment removal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>and making matters worse these patients actually had significantly higher rates of return to the emergency department within six months of their injury</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>it’s important to highlight that this study we’re talking about only considers nonfatal GSW patients that were admitted this does not take into consideration the countless number of patients with nonfatal GSWS with retained bullets that are routinely discharged</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>retained bullets aren’t just a physical artifact</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>they’re a marker of ongoing community-level vulnerability</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>these patients carry real downstream burden of pain infection migration lead toxicity and then the psychological distress associated with these retained bullets</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>sure so with that teddy when do we remove these bullets what do you guys do in houston</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>so generally we remove them if it’s easily accessible intraoperatively if it’s kind of in the field or if it’s something that is superficial if it’s palpable if we have a patient that comes back to clinic and they have persistent pain infection if it’s kind of nagging some people</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>complaining is i can’t sleep on a certain side because it wakes me up but we don’t really have a formal protocol and it’s patient- and provider-specific</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>yeah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a192"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>i think that’s common at duke we just recently created a retained-bullet guideline with the goal of increasing awareness to get our team thinking about bullet removal early and to educate about these rare events but serious events of lead toxicity in general i think i’m more aggressive about removing retained bullets during the initial hospitalization if it’s safe to do so tyler walk us through the framework when it comes to the decision to remove bullets or bullet fragments both acutely and in a delayed fashion</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a193"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>of course so at their index hospitalization some strong indications that have been cited previously include if it’s superficial if the bullet is palpable or if it’s fragments that are easily accessible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a194"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>also if the fragments are encountered during operative debridement or exploration</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>if the fragments have an intraarticular location or if they’re on the weight-bearing surface</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a196"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>and then if there’s nerve impingement with a progressive neurologic deficit and lastly if there’s vascular embolization which most would agree is probably a relatively rare phenomenon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a197"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>yeah there are also softer indications that we should consider when these patients are initially hospitalized these include progressive pain clearly attributable to the fragment pediatric patients with a long lifetime exposure of lead ahead of them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a198"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>patients with multiple retained fragments where the aggregate lead burden adds up</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a310"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>yeah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a199"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>you know what irks me as part of the reason we created that protocol is if we have folks that come into the ED whether they’re admitted or not and soft-tissue injury no big deal and the bullet’s just sitting there you can feel it it’s underneath the skin and we just leave it there we should be taking those out especially when it’s easy enough some local at the bedside making a decision pulling the bullet out that should be done during that admission in the ED in-house whatever it may be</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a200"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>so tyler what about delayed removal patients coming back to clinic with issues</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a311"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>when patients return to the clinic or the ED with persistent pain at the fragment site infection fragment migration psychological distress or if they have evidence of lead toxicity those are all indications in which we should reconsider removal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>i like that you said reconsider there’s always a risk-benefit calculation that we need to make with these so</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a202"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>we have to think about the fragment depth is there any proximity to neurovascular structures</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>their overall patient status this patient may be deathly ill from all their injuries so we’ve got to really take those things into consideration before we rem- remove these bullets many times the risk may actually exceed the reward of trying to take one of these bullets out</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a204"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>yeah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>the often the morbidity of excising that bullet is way too great you can go digging through a bunch of important structures deep in the tissue and when you removal isn’t the right move the approach should be watchful waiting with a structured surveillance plan and an explicit shared decision-making conversation which is probably one of the main things we’re missing in trauma is to acknowledge the fact that there’s a bullet there talk about what that could mean in the future talk about how we would take care of it and it’s probably good to document that too so hey there’s a retained bullet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a206"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>and the so as and it was discussed with the patient and we talked about a surveillance plan which includes XYZ about three sentences in the chart and importantly to share with those patients especially at the time of discharge what symptoms should prompt them to return</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>and the next part is really important too this comes up all the time when it comes to removal what do we do with this forensic evidence something that’s genuinely undertalked</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>yeah i think that it’s something that we don’t really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>discuss enough in surgical training especially if you’re not at like a high-volume penetrating center how do you remove the bullets and what is the kind of chain of command once you remove them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>when i was in training i removed a number of bullets and didn’t really understand this whole process you know the key is to preserve forensic integrity these bullets are potential criminal evidence so if you scratch clean or damage the bullet you may destroy the microstriations on the bullet that these forensic examiners use to match the bullet to a specific firearm tyler what are some operative considerations to preserve the forensic integrity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>so when you’re in the OR or if you’re in clinic and you’re removing a bullet fragment the instrument you’re using matters we want to avoid using any metal forceps or metal clamps on the bullet surface and ideally we should use plastic forceps or forceps with rubber tips or rubber-tipped kelly clamps oftentimes these may not be available and you can improvise by cutting a piece of a red rubber catheter and then just placing it over the tips of the instrument you’re using you can also manually retrieve it with a gloved finger if that’s possible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a212"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>but each ballistic fragment should be placed in a separate plastic container and i know we all love the sound of dropping that metal pull it onto the onto the mayo or into a metal container but this needs to be avoided</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a215"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>but along those lines you want to keep the bullets in separate containers that way they also don’t damage each other when they’re transported you should place a label on each container and include the anatomic location of retrieval and then the ballistic fragment should always follow your institution’s chain-of-custody procedures</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a216"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>yeah i think the chain of custody is nonnegotiable with this is one thing that i think a lot of surgeons are not familiar with and it’s really important to confirm the process with your institution your OR leadership and the hospital police</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a217"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>generally when this occurs the first thing you do is have the OR circulator contact hospital police or public safety to retrieve the evidence</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a218"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>and then remember the only person who can accept that bullet is a designated officer who’s permitted to take the specimen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a219"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>the transfer should include the officer’s name when available and that should be documented in the chart all you really have to do is put a one-liner in your op report or in a note so that we can follow up on it and make sure that we’re following the chain of custody</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a220"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE> i checked this after we had looked into this episode and the last one we had removed our nurse did a great job she walked the bullet in a plastic cup out to the OR front desk where duke police were waiting for her she handed it off to them and then noted documenting officer so-and-so badge number so-and-so retrieved the bullet at such-and-such time and took it back to the evidence storage facility where i learned the vast majority at least for us in durham those bullets are sent back out to their respective counties in which those police departments reside and so those bullets do at least locally get sent back to the right place for ongoing investigation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a222"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>i think one thing that i would add is that if you are not familiar with this it’s probably a good idea if you’re taking somebody to the operating room to do this you can always contact your hospital administrator on call and they should hopefully have an answer for you as to how to address this if no one really is familiar in the operating room</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a312"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>yeah and sometimes this happens late at night too and that’s when it may break down</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>so let’s talk about lead poisoning tyler give us a little bit of background here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a224"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>all right so lead toxicity is historically called plumbism</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a225"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>and it’s an underdiagnosed complication of nonfatal GSWS just a quick note on bullet composition: most modern handgun rounds are now jacketed so they have a copper-alloy shell that’s over a lead core and this jacketing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>slows leaching of lead but it doesn’t necessarily prevent it especially when projectiles deform or fragment on impact and expose the core so even jacketed ammunition can be a lead source once it’s in tissues</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a227"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>and the rate at which lead leaches from ballistic fragments isn’t uniform it depends critically on the local tissue environment around the fragment</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a313"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>yeah it’s important to recognize lead toxicity is rare you know overall you step back it is rare but one of the known causes are retained bullets if that retained bullet’s in the soft tissue</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a228"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>it’s less likely to be an issue but the location really does matter tyler so what types of locations or exposure to certain types of tissue lead to greater risk of lead poisoning</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>the highest-risk locations are those that have continuous body-fluid contact these are the intraarticular spaces that are bathed in synovial fluid fragments that are in contact with cerebrospinal fluid fragments in bone marrow and fragments that are in highly vascularized tissue a systematic review in twenty nineteen showed that intraarticular</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>locations bone fractures or trauma at the fragment site multiple fragments upper metabolic states and longer retention duration all independently increase the risk of lead toxicity the synovial-fluid environment is particularly corrosive to lead as it contains higher hyaluronic acid and it has continuous joint motion both of which accelerate dissolution</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>yeah and i think it’s worth adding the old assumption that soft-tissue fragments are safe because they’re getting encapsulated isn’t entirely true there’s a published case of a man who had retained soft-tissue fragments who presented ten years out with blood levels over two hundred micrograms per deciliter this was confirmed as the source by isotope-ratio analysis so encapsulation does reduce the risk but it doesn’t completely eliminate it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a314"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>but tyler what happens then after lead leaches from retained bullet fragments and is absorbed into the bloodstream</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>well lead distributes among the blood the soft tissue and the bone it actually behaves like calcium entering cells through the calcium channels and other metal-ion transporters</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>the blood half-life is about twenty-eight to thirty-six days but this is a little bit misleading because the kinetics are biphasic so about ninety-four percent of total body lead in adults and about seventy-three percent in children is actually sequestered in bone and the half-life of lead that is in bone is somewhere between ten and thirty years</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>yeah and that matters clinically because anything that increases bone turnover so stuff like hyperthyroidism even pregnancy can lead to remobilization of stored lead back into the circulation even years after the source fragment is removed or after that GSW</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>i think that’s an important point we mentioned it earlier about education right we see a lot of people who are shot and</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a238"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>we just send them out and i think part of the message that we are giving today is that we should be educating these people on you know what they should look for right so with that tyler we see these patients with retained ballistic fragments for follow-up in trauma clinic</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a240"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>all the time every day we see them what are some of the clinical manifestations that we should be looking for of lead toxicity so we can identify them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>oh man unfortunately the symptoms are frustratingly nonspecific and that’s why it gets missed lead affects virtually every organ system the so-called classic constellation is fatigue abdominal pain constipation and peripheral neuropathy but you can also see anemia from the inhibition of heme synthesis renal dysfunction from tubular injury cognitive changes and memory impairment irritability mood changes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a242"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>the presenting complaint of abdominal pain anemia and a young guy or young girl who had a picture of a GSW should be enough to prompt obtaining a blood lead level though</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>yeah it’s an easy diagnosis to miss given how vague the presentation is right i think a lot of these people end up seeing their PCP with these symptoms and it sometimes takes a while and other patients that we’ve seen in our clinic with this problem it’s been bounced around from place to place until they get this diagnosis because it’s really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a246"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>nonspecific</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a247"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>yeah and like we talked about some of these patients are at higher risk depending on the location and the number of retained fragments and we’ve had patients i think the few times that i can remember seeing this are patients with shotgun wounds that have multiple multiple fragments so if in your mind you’re going to discharge them from your clinic you should educate them on</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a248"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>that they’re at risk for this kind of stuff</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a249"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>so what are blood lead levels that we need to worry about tyler</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a250"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>yeah so blood lead levels they’re measured in micrograms per deciliter and the CDC classifies a lead level greater than three point five micrograms per deciliter as elevated</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a252"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>but in clinical terms levels at or below this reference value of three point five warrant observation only and then levels that are above the reference level and get into single digits warrant a little bit closer monitoring with attention to risk factors and then once you get to lead levels of ten micrograms per deciliter or above that’s a clinically significant elevation and surgical removal again should be reconsidered if it’s feasible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>and once blood lead levels reach fifty and above you’re entering a point of severe toxicity territory requiring urgent specialist-directed chelation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a315"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>so how often are we checking blood lead levels for patients with retained bullets</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a254"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>there’s not really a formal consensus that i’m aware of as we mentioned at duke we’ve recently got a new retained-ballistic-fragment protocol and our protocol calls for us to get lead levels within a few weeks of injury then every six months for at least two years</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>yeah you know some centers now have risk-stratified blood-lead-level monitoring so for high-risk patients which include those that have intraarticular involvement CSF contact bone involvement multiple fragments or pediatric patients they would all fall into that category low-risk patients are those that are asymptomatic with subcutaneous or intramuscular retained bullet fragments</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a256"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>low-risk patients require a baseline blood lead level and less frequent monitoring</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a257"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>yeah i think i think one of the key distinctions here that we should really take a moment to focus on is the pediatric patients and that across the board they’re considered high risk inherently you know at houston we have a distinction between adults and pediatrics in this when it kind of comes to blood</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a258"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>lead-level testing we don’t really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a259"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>have a protocol in the adult world yet but in kids</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a260"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>we are very aggressive with checking blood levels and we know because kids are at</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a261"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>more risk due to higher GI absorption of lead they have ongoing CNS development high bone turnover and that can remobilize the stored lead as we talked about so the accepted position</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a262"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>in pediatric toxicology is that no blood lead level is safe in children so in pediatric patients with these retained ballistic fragments they should have more frequent surveillance</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a264"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>so let’s say we check blood lead levels our patient</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265"
+                TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>starts off at three</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a266"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>next check six months later it’s seven</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267"
+                TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>what are we doing for that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a268"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>yeah so we’ve got rising blood lead levels in this patient and two big things here first and foremost we should again reconsider removing the ballistic fragment if it’s surgically feasible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a269"
+                TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>and then secondly we should consider specialist consultation so this may be institution-specific but it may be a hematology consultation or medical toxicology and we can consult them if lead levels are greater than ten micrograms per deciliter or if the lead levels are rising on serial labs or if patients are symptomatic or have high-risk ballistic-fragment locations like we’ve mentioned intraarticular in the CSF in the bone marrow</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a270"
+                TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>and then chelation therapy really should be directed by specialists and it’s reserved for patients with significant toxicity often when lead levels reach fifty micrograms per deciliter or higher</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a271"
+                TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
+                <ANNOTATION_VALUE>just to clarify you know chelation alone is not the answer it just is a temporizing measure right the lead will continue to keep leaching out of that bullet so in the ideal situation we should be focusing on trying to remove the fragment because that is the definitive step</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a272"
+                TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
+                <ANNOTATION_VALUE>yeah we actually in the morning the protocol found one person with a slightly elevated blood lead level and we went ahead and talked with hematology and they were absolutely geeked about this it was awesome the patients can be looked after very closely these are folks who have a genuine interest in this and an expertise so that was pretty cool to see</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a273"
+                TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>so madhu as a gun-violence survivor can you speak to the psychological impacts of retained bullets</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a274"
+                TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
+                <ANNOTATION_VALUE>just from my experience i wanted to learn more about it and so one of the people that is doing a ton of work on this is randi smith and her group first at penn now at emory they did a study in two thousand and eighteen where they prospectively followed one hundred and thirty-nine male firearm-injury survivors at a level one trauma center they used a validated instrument three months post-injury to kind of follow these patients and assess their psychological symptoms they didn’t see a difference between PTSD symptoms in those who had a retained bullet versus those that did not but depression was a completely different story</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a276"
+                TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts232">
+                <ANNOTATION_VALUE>when they did a multivariable regression controlling for injury severity number of wounds education and marital status they noticed that the presence of a retained bullet fragment was independently associated with about a three-point-five-point increase in depression scores</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a277"
+                TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts234">
+                <ANNOTATION_VALUE>patients with retained bullet fragments were also less likely to return to work</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a278"
+                TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
+                <ANNOTATION_VALUE>smith and her group followed this up with a qualitative study that they published in twenty twenty-three</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a279"
+                TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
+                <ANNOTATION_VALUE>in that study they did in-depth interviews with about twenty-four survivors what was interesting was the language that these patients used</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a280"
+                TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts240">
+                <ANNOTATION_VALUE>they described the shame of having a foreign body in their body</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a281"
+                TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
+                <ANNOTATION_VALUE>many of them likened it to having a permanent scar that they couldn’t remove</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a282"
+                TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
+                <ANNOTATION_VALUE>and they explicitly wanted the fragment out not because they were told it was dangerous</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a283"
+                TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
+                <ANNOTATION_VALUE>or because of any other real reason they just thought it prevented them from having psychological closure</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a285"
+                TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
+                <ANNOTATION_VALUE>the authors compare this to burn survivors where this</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a286"
+                TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
+                <ANNOTATION_VALUE>bullet fragment is kind of a reminder of the trauma that they’ve undergone</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287"
+                TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
+                <ANNOTATION_VALUE>it definitely reframes the risk-benefit calculation you know something that we don’t put into the risk of leaving the fragment so psychological distress is definitely real these patients may not have lead toxicity but if the patient is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a288"
+                TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts254">
+                <ANNOTATION_VALUE>in our clinic</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289"
+                TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts256">
+                <ANNOTATION_VALUE>coming back and telling us that they think about this bullet every day and they’re perseverating on it then that should weigh into that decision to remove it there are a couple caveats here that are worth mentioning and one is probably the study population consisted almost entirely of young males at urban level one trauma centers and the short follow-up</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a290"
+                TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
+                <ANNOTATION_VALUE>is worth mentioning as well and no one has truly tested whether removal actually improves depression scores</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a291"
+                TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts260">
+                <ANNOTATION_VALUE>the signal is real but i think the evidence base is still maturing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a292"
+                TIME_SLOT_REF1="ts261" TIME_SLOT_REF2="ts262">
+                <ANNOTATION_VALUE>but the practical takeaway is that psychological distress definitely belongs on our list of relative indications for delayed removal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a293"
+                TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts264">
+                <ANNOTATION_VALUE>and we should probably be screening for depression at trauma clinic in our</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a294"
+                TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts266">
+                <ANNOTATION_VALUE>GSW survivors not just asking about pain and wound healing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a295"
+                TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts268">
+                <ANNOTATION_VALUE>yeah that’s a whole 'nother</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a296"
+                TIME_SLOT_REF1="ts269" TIME_SLOT_REF2="ts270">
+                <ANNOTATION_VALUE>topic when it comes to comprehensive trauma-informed care and our follow-up clinics which can</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297"
+                TIME_SLOT_REF1="ts271" TIME_SLOT_REF2="ts272">
+                <ANNOTATION_VALUE>lack</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a298"
+                TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts274">
+                <ANNOTATION_VALUE>so with that we’ll wrap up our conversation here on retained bullets</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a299"
+                TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts276">
+                <ANNOTATION_VALUE>remember the following key points number one most retained bullets stay retained</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a300"
+                TIME_SLOT_REF1="ts277" TIME_SLOT_REF2="ts278">
+                <ANNOTATION_VALUE>and most patients come back with issues related to that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a301"
+                TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts280">
+                <ANNOTATION_VALUE>number two</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a302"
+                TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts282">
+                <ANNOTATION_VALUE>we should all have a clear framework for removal that may look different at different institutions but having a framework is important number three</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a303"
+                TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts284">
+                <ANNOTATION_VALUE>treat every bullet as forensic evidence we provided the tips and tricks for effective removal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a304"
+                TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts286">
+                <ANNOTATION_VALUE>number four while rare lead toxicity is real is delayed and it can easily be missed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a305"
+                TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts288">
+                <ANNOTATION_VALUE>and five the psychological burden of retained bullets should absolutely not be dismissed all right well thanks for listening to this episode of behind the knife as always dominate the day</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a306"
+                TIME_SLOT_REF1="ts289" TIME_SLOT_REF2="ts290">
+                <ANNOTATION_VALUE>this episode of BIG t trauma was sponsored by teleflex a global provider of medical devices learn more at teleflex dot com</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a308"
+                TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts292">
+                <ANNOTATION_VALUE>content produced by behind the knife is intended for health professionals and is for educational purposes only we do not diagnose treat or offer patient-specific advice thank you for listening we appreciate your support</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a309"
+                TIME_SLOT_REF1="ts293" TIME_SLOT_REF2="ts294">
+                <ANNOTATION_VALUE>until next time dominate the day</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
